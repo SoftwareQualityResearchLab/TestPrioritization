@@ -1,6 +1,6 @@
 #!/bin/bash
 
-if [ $# -eq 0 ]; then
+if [ $# -le 1 ]; then
 	echo "usage: run_testfinder.sh [absolute-project-path] [main-test-package]"
 	echo "main-test-package example: org.apache.commons.math3"
 	exit
