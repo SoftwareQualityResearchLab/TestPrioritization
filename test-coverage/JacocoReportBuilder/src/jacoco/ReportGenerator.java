@@ -160,10 +160,12 @@ public class ReportGenerator {
 	 * @throws IOException
 	 */
 	public static void main(final String[] args) throws IOException {
-		//		for (int i = 0; i < args.length; i++) {
-		final ReportGenerator generator = new ReportGenerator(new File("/home/sajad/workspace/commons-math/"));
+		if (args.length < 1) {
+			System.out.println("usage: java -jar JacocoReportBuilder.jar [source folder of project]");
+			return;
+		}
+		final ReportGenerator generator = new ReportGenerator(new File(args[0]));
 		generator.create();
-		//		}
 	}
 
 }

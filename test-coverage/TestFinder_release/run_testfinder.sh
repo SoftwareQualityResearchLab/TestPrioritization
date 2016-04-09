@@ -6,4 +6,6 @@ if [ $# -le 1 ]; then
 	exit
 fi
 
-java -cp $1/target/classes:$1/target/test-classes:TestFinder.jar:lib/* org.testfinder.TestFinder $2
+DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+
+java -cp $1/target/classes:$1/target/test-classes:$DIR/TestFinder.jar:$DIR/lib/* org.testfinder.TestFinder $2
