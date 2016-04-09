@@ -2,11 +2,11 @@ import csv, os, subprocess, StringIO, numpy, sys
 
 pwd = os.getcwd()
 for number in range(int(sys.argv[1]),int(sys.argv[2])):
-        projectPath = "/share/ProjectData/Math/"+`number`
-        finalResult = "/share/TestPrioritization/test-coverage/result"+"/final_"+`number`+".csv"
+        #projectPath = "/share/ProjectData/Math/"+`number`
+        #finalResult = "/share/TestPrioritization/test-coverage/result"+"/final_"+`number`+".csv"
 
-	#projectPath = "/home/sajad/workspace/commons-math"
-	#finalResult = "/home/sajad/workspace/commons-math/final.csv"
+	projectPath = "/home/sajad/workspace/commons-math"
+	finalResult = "/home/sajad/workspace/commons-math/final.csv"
         reportPath = projectPath+"/report.csv"
 
         testFinderCommand = "bash "+pwd+"/TestFinder_release/run_testfinder.sh "+projectPath+" org.apache.commons.math3"
