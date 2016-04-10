@@ -1,0 +1,5 @@
+com.google.javascript.jscomp.parsing.JsDocInfoParser
+com.google.javascript.jscomp.PeepholeSubstituteAlternateSyntax
+com.google.javascript.rhino.TokenStream
+com.google.javascript.jscomp.CollapseProperties
+com.google.javascript.jscomp.PrepareAst

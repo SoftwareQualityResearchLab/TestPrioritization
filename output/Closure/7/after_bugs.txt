@@ -1,0 +1,6 @@
+com.google.javascript.jscomp.RemoveUnusedVars
+com.google.javascript.jscomp.TypeCheck
+com.google.javascript.jscomp.FlowSensitiveInlineVariables
+com.google.javascript.rhino.jstype.NamedType
+com.google.javascript.jscomp.InlineObjectLiterals
+com.google.javascript.jscomp.TypeValidator

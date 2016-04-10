@@ -1,0 +1,10 @@
+org.jfree.chart.renderer.category.AbstractCategoryItemRenderer
+org.jfree.data.general.DatasetUtilities
+org.jfree.data.time.TimeSeries
+org.jfree.chart.plot.XYPlot
+org.jfree.data.xy.XYSeries
+org.jfree.chart.util.ShapeList
+org.jfree.data.time.TimePeriodValues
+org.jfree.data.time.Week
+org.jfree.data.time.TimeSeries
+org.jfree.chart.imagemap.StandardToolTipTagFragmentGenerator
