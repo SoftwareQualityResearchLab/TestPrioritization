@@ -17,7 +17,7 @@ def main():
 		subprocess.call(makeRemoveJacocoCommand(jacocoPath), shell=True)
 		subprocess.call(makeRemoveReportCommand(reportPath), shell=True)
 
-		testFinderCommand = "bash "+pwd+"/TestFinder_release/run_testfinder.sh "+projectPath+" org.apache.commons.math3"
+		testFinderCommand = "bash "+pwd+"/TestFinder_release/run_testfinder.sh "+projectPath+" org.apache.commons.math"
 		testMethods = subprocess.check_output(testFinderCommand, shell=True)
 		s = StringIO.StringIO(testMethods)
 		numberOfAllTest = 0

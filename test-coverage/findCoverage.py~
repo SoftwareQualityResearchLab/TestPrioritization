@@ -75,26 +75,26 @@ def main():
 					for row in readerOfCsv:
 						result[j][0]=row[0]
 						j+=1
-				with open(reportPath) as f:
-					reader = csv.reader(f, delimiter=',')
-					next(reader, None)
-					result[0][i]=test[:-1]
-					j=1
-					for row in reader:
-						result[j][i]=row[1]
-						j+=1
-				output = subprocess.check_output(makeRemoveReportCommand(reportPath), shell=True)
-				print output
+			with open(reportPath) as f:
+				reader = csv.reader(f, delimiter=',')
+				next(reader, None)
+				result[0][i]=test[:-1]
+				j=1
+				for row in reader:
+					result[j][i]=row[1]
+					j+=1
+			output = subprocess.check_output(makeRemoveReportCommand(reportPath), shell=True)
+			print output
 			print i
 			#if i==2:
 			#	break
 	
 	#       print result
-	numpy.savetxt(finalResult, result, delimiter=",",  fmt="%s")
-	print "number of failed test methods="
-	print numberOfFailedTest
-	print "total number of test methods="
-	print numberOfAllTest
+		numpy.savetxt(finalResult, result, delimiter=",",  fmt="%s")
+		print "number of failed test methods="
+		print numberOfFailedTest
+		print "total number of test methods="
+		print numberOfAllTest
 
 
 def makeJacocoCommand(testName, projectPath, pwd):
