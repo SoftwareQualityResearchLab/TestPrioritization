@@ -21,7 +21,7 @@ org.jfree.experimental.chart.swt.editor.SWTPlotEditor.java,org.jfree.experimenta
 org.jfree.experimental.chart.swt.editor.SWTStrokeCanvas.java,org.jfree.experimental.chart.swt.editor.SWTStrokeCanvas,swt/org/jfree/experimental/chart/swt/editor/SWTStrokeCanvas.java,3.00,3.00.00,3.00.00,3.00.00,3.00.00,3.00.00,3,1,0,0,0
 org.jfree.experimental.chart.swt.editor.SWTTitleEditor.java,org.jfree.experimental.chart.swt.editor.SWTTitleEditor,swt/org/jfree/experimental/chart/swt/editor/SWTTitleEditor.java,7.00,7.00.00,7.00.00,7.00.00,7.00.00,7.00.00,3,1,0,0,0
 org.jfree.chart.ChartColor.java,org.jfree.chart.ChartColor,source/org/jfree/chart/ChartColor.java,1.00,1.00.00,1.00.00,1.00.00,1.00.00,1.00.00,3,1,0,0,0
-* 06-Nov-2002 : Moved renderers into a separate  (DG).ChartFactory.java,* 06-Nov-2002 : Moved renderers into a separate  (DG).ChartFactory,source/org/jfree/chart/ChartFactory.java,120.00,120.00.00,120.00.00,120.00.00,120.00.00,120.00.00,3,1,0,0,0
+couldn't,couldn't,source/org/jfree/chart/ChartFactory.java,120.00,120.00.00,120.00.00,120.00.00,120.00.00,120.00.00,3,1,0,0,0
 org.jfree.chart.ChartFrame.java,org.jfree.chart.ChartFrame,source/org/jfree/chart/ChartFrame.java,2.00,2.00.00,2.00.00,2.00.00,2.00.00,2.00.00,3,1,0,0,0
 org.jfree.chart.ChartMouseEvent.java,org.jfree.chart.ChartMouseEvent,source/org/jfree/chart/ChartMouseEvent.java,1.00,1.00.00,1.00.00,1.00.00,1.00.00,1.00.00,3,1,0,0,0
 org.jfree.chart.ChartMouseListener.java,org.jfree.chart.ChartMouseListener,source/org/jfree/chart/ChartMouseListener.java,1.00,1.00.00,1.00.00,1.00.00,1.00.00,1.00.00,3,1,0,0,0
@@ -44,7 +44,7 @@ org.jfree.data.DataUtilities.java,org.jfree.data.DataUtilities,source/org/jfree/
 org.jfree.data.DefaultKeyedValue.java,org.jfree.data.DefaultKeyedValue,source/org/jfree/data/DefaultKeyedValue.java,9.00,9.00.00,9.00.00,9.00.00,9.00.00,9.00.00,3,1,0,0,0
 org.jfree.data.DefaultKeyedValues.java,org.jfree.data.DefaultKeyedValues,source/org/jfree/data/DefaultKeyedValues.java,26.00,26.00.00,26.00.00,26.00.00,26.00.00,26.00.00,3,1,0,1,0
 org.jfree.data.DefaultKeyedValues2D.java,org.jfree.data.DefaultKeyedValues2D,source/org/jfree/data/DefaultKeyedValues2D.java,39.00,39.00.00,39.00.00,39.00.00,39.00.00,39.00.00,3,1,0,1,0
-* 15-Nov-2001 : Moved to  com.jrefinery.data.* (DG).DomainInfo.java,* 15-Nov-2001 : Moved to  com.jrefinery.data.* (DG).DomainInfo,source/org/jfree/data/DomainInfo.java,1.00,1.00.00,1.00.00,1.00.00,1.00.00,1.00.00,3,1,0,0,0
+couldn't,couldn't,source/org/jfree/data/DomainInfo.java,1.00,1.00.00,1.00.00,1.00.00,1.00.00,1.00.00,3,1,0,0,0
 org.jfree.data.DomainOrder.java,org.jfree.data.DomainOrder,source/org/jfree/data/DomainOrder.java,7.00,7.00.00,7.00.00,7.00.00,7.00.00,7.00.00,3,1,0,0,0
 org.jfree.data.KeyedObject.java,org.jfree.data.KeyedObject,source/org/jfree/data/KeyedObject.java,6.00,6.00.00,6.00.00,6.00.00,6.00.00,6.00.00,3,1,0,0,0
 org.jfree.data.KeyedObjects.java,org.jfree.data.KeyedObjects,source/org/jfree/data/KeyedObjects.java,25.00,25.00.00,25.00.00,25.00.00,25.00.00,25.00.00,3,1,0,0,0
@@ -56,7 +56,7 @@ org.jfree.data.KeyedValues.java,org.jfree.data.KeyedValues,source/org/jfree/data
 org.jfree.data.KeyedValues2D.java,org.jfree.data.KeyedValues2D,source/org/jfree/data/KeyedValues2D.java,1.00,1.00.00,1.00.00,1.00.00,1.00.00,1.00.00,3,1,0,0,0
 org.jfree.data.KeyToGroupMap.java,org.jfree.data.KeyToGroupMap,source/org/jfree/data/KeyToGroupMap.java,29.00,29.00.00,29.00.00,29.00.00,29.00.00,29.00.00,3,1,0,0,0
 org.jfree.data.Range.java,org.jfree.data.Range,source/org/jfree/data/Range.java,20.00,20.00.00,20.00.00,20.00.00,20.00.00,20.00.00,3,1,0,0,0
-* 15-Nov-2001 : Moved to  com.jrefinery.data.* (DG).RangeInfo.java,* 15-Nov-2001 : Moved to  com.jrefinery.data.* (DG).RangeInfo,source/org/jfree/data/RangeInfo.java,1.00,1.00.00,1.00.00,1.00.00,1.00.00,1.00.00,3,1,0,0,0
+couldn't,couldn't,source/org/jfree/data/RangeInfo.java,1.00,1.00.00,1.00.00,1.00.00,1.00.00,1.00.00,3,1,0,0,0
 org.jfree.data.RangeType.java,org.jfree.data.RangeType,source/org/jfree/data/RangeType.java,7.00,7.00.00,7.00.00,7.00.00,7.00.00,7.00.00,3,1,0,0,0
 org.jfree.data.UnknownKeyException.java,org.jfree.data.UnknownKeyException,source/org/jfree/data/UnknownKeyException.java,1.00,1.00.00,1.00.00,1.00.00,1.00.00,1.00.00,3,1,0,0,0
 org.jfree.data.Value.java,org.jfree.data.Value,source/org/jfree/data/Value.java,1.00,1.00.00,1.00.00,1.00.00,1.00.00,1.00.00,3,1,0,0,0
@@ -77,13 +77,13 @@ org.jfree.chart.annotations.XYPointerAnnotation.java,org.jfree.chart.annotations
 org.jfree.chart.annotations.XYPolygonAnnotation.java,org.jfree.chart.annotations.XYPolygonAnnotation,source/org/jfree/chart/annotations/XYPolygonAnnotation.java,19.00,19.00.00,19.00.00,19.00.00,19.00.00,19.00.00,3,1,0,0,0
 org.jfree.chart.annotations.XYShapeAnnotation.java,org.jfree.chart.annotations.XYShapeAnnotation,source/org/jfree/chart/annotations/XYShapeAnnotation.java,15.00,15.00.00,15.00.00,15.00.00,15.00.00,15.00.00,3,1,0,0,0
 org.jfree.chart.annotations.XYTextAnnotation.java,org.jfree.chart.annotations.XYTextAnnotation,source/org/jfree/chart/annotations/XYTextAnnotation.java,21.00,21.00.00,21.00.00,21.00.00,21.00.00,21.00.00,3,1,0,0,0
-* 08-Nov-2002 : Moved to new  com.jrefinery.chart.axis (DG).Axis.java,* 08-Nov-2002 : Moved to new  com.jrefinery.chart.axis (DG).Axis,source/org/jfree/chart/axis/Axis.java,66.00,66.00.00,66.00.00,66.00.00,66.00.00,66.00.00,3,1,0,0,0
+couldn't,couldn't,source/org/jfree/chart/axis/Axis.java,66.00,66.00.00,66.00.00,66.00.00,66.00.00,66.00.00,3,1,0,0,0
 org.jfree.chart.axis.AxisCollection.java,org.jfree.chart.axis.AxisCollection,source/org/jfree/chart/axis/AxisCollection.java,7.00,7.00.00,7.00.00,7.00.00,7.00.00,7.00.00,3,1,0,0,0
 org.jfree.chart.axis.AxisLocation.java,org.jfree.chart.axis.AxisLocation,source/org/jfree/chart/axis/AxisLocation.java,13.00,13.00.00,13.00.00,13.00.00,13.00.00,13.00.00,3,1,0,0,0
 org.jfree.chart.axis.AxisSpace.java,org.jfree.chart.axis.AxisSpace,source/org/jfree/chart/axis/AxisSpace.java,26.00,26.00.00,26.00.00,26.00.00,26.00.00,26.00.00,3,1,0,0,0
 org.jfree.chart.axis.AxisState.java,org.jfree.chart.axis.AxisState,source/org/jfree/chart/axis/AxisState.java,5.00,5.00.00,5.00.00,5.00.00,5.00.00,5.00.00,3,1,0,0,0
 org.jfree.chart.axis.CategoryAnchor.java,org.jfree.chart.axis.CategoryAnchor,source/org/jfree/chart/axis/CategoryAnchor.java,7.00,7.00.00,7.00.00,7.00.00,7.00.00,7.00.00,3,1,0,0,0
-* 08-Nov-2002 : Moved to new  com.jrefinery.chart.axis (DG).CategoryAxis.java,* 08-Nov-2002 : Moved to new  com.jrefinery.chart.axis (DG).CategoryAxis,source/org/jfree/chart/axis/CategoryAxis.java,87.00,87.00.00,87.00.00,87.00.00,87.00.00,87.00.00,3,1,0,0,0
+couldn't,couldn't,source/org/jfree/chart/axis/CategoryAxis.java,87.00,87.00.00,87.00.00,87.00.00,87.00.00,87.00.00,3,1,0,0,0
 org.jfree.chart.axis.CategoryAxis3D.java,org.jfree.chart.axis.CategoryAxis3D,source/org/jfree/chart/axis/CategoryAxis3D.java,15.00,15.00.00,15.00.00,15.00.00,15.00.00,15.00.00,3,1,0,0,0
 org.jfree.chart.axis.CategoryLabelPosition.java,org.jfree.chart.axis.CategoryLabelPosition,source/org/jfree/chart/axis/CategoryLabelPosition.java,13.00,13.00.00,13.00.00,13.00.00,13.00.00,13.00.00,3,1,0,0,0
 org.jfree.chart.axis.CategoryLabelPositions.java,org.jfree.chart.axis.CategoryLabelPositions,source/org/jfree/chart/axis/CategoryLabelPositions.java,23.00,23.00.00,23.00.00,23.00.00,23.00.00,23.00.00,3,1,0,0,0
@@ -91,34 +91,34 @@ org.jfree.chart.axis.CategoryLabelWidthType.java,org.jfree.chart.axis.CategoryLa
 org.jfree.chart.axis.CategoryTick.java,org.jfree.chart.axis.CategoryTick,source/org/jfree/chart/axis/CategoryTick.java,7.00,7.00.00,7.00.00,7.00.00,7.00.00,7.00.00,3,1,0,0,0
 org.jfree.chart.axis.CompassFormat.java,org.jfree.chart.axis.CompassFormat,source/org/jfree/chart/axis/CompassFormat.java,2.00,2.00.00,2.00.00,2.00.00,2.00.00,2.00.00,3,1,0,0,0
 org.jfree.chart.axis.CyclicNumberAxis.java,org.jfree.chart.axis.CyclicNumberAxis,source/org/jfree/chart/axis/CyclicNumberAxis.java,106.00,106.00.00,106.00.00,106.00.00,106.00.00,106.00.00,3,1,0,0,0
-* 08-Nov-2002 : Moved to new  com.jrefinery.chart.axis (DG).DateAxis.java,* 08-Nov-2002 : Moved to new  com.jrefinery.chart.axis (DG).DateAxis,source/org/jfree/chart/axis/DateAxis.java,105.00,105.00.00,105.00.00,105.00.00,105.00.00,105.00.00,3,1,0,0,0
+couldn't,couldn't,source/org/jfree/chart/axis/DateAxis.java,105.00,105.00.00,105.00.00,105.00.00,105.00.00,105.00.00,3,1,0,0,0
 org.jfree.chart.axis.DateTick.java,org.jfree.chart.axis.DateTick,source/org/jfree/chart/axis/DateTick.java,5.00,5.00.00,5.00.00,5.00.00,5.00.00,5.00.00,3,1,0,0,0
 org.jfree.chart.axis.DateTickMarkPosition.java,org.jfree.chart.axis.DateTickMarkPosition,source/org/jfree/chart/axis/DateTickMarkPosition.java,7.00,7.00.00,7.00.00,7.00.00,7.00.00,7.00.00,3,1,0,0,0
-* 08-Nov-2002 : Moved to new  com.jrefinery.chart.axis (DG).DateTickUnit.java,* 08-Nov-2002 : Moved to new  com.jrefinery.chart.axis (DG).DateTickUnit,source/org/jfree/chart/axis/DateTickUnit.java,22.00,22.00.00,22.00.00,22.00.00,22.00.00,22.00.00,3,1,0,0,0
+couldn't,couldn't,source/org/jfree/chart/axis/DateTickUnit.java,22.00,22.00.00,22.00.00,22.00.00,22.00.00,22.00.00,3,1,0,0,0
 org.jfree.chart.axis.ExtendedCategoryAxis.java,org.jfree.chart.axis.ExtendedCategoryAxis,source/org/jfree/chart/axis/ExtendedCategoryAxis.java,14.00,14.00.00,14.00.00,14.00.00,14.00.00,14.00.00,3,1,0,0,0
-* 08-Nov-2002 : Moved to new  com.jrefinery.chart.axis (DG).LogarithmicAxis.java,* 08-Nov-2002 : Moved to new  com.jrefinery.chart.axis (DG).LogarithmicAxis,source/org/jfree/chart/axis/LogarithmicAxis.java,125.00,125.00.00,125.00.00,125.00.00,125.00.00,125.00.00,3,1,0,0,0
+couldn't,couldn't,source/org/jfree/chart/axis/LogarithmicAxis.java,125.00,125.00.00,125.00.00,125.00.00,125.00.00,125.00.00,3,1,0,0,0
 org.jfree.chart.axis.LogAxis.java,org.jfree.chart.axis.LogAxis,source/org/jfree/chart/axis/LogAxis.java,48.00,48.00.00,48.00.00,48.00.00,48.00.00,48.00.00,3,1,0,0,0
-* 08-Nov-2002 : Moved to new  com.jrefinery.chart.axis (DG).MarkerAxisBand.java,* 08-Nov-2002 : Moved to new  com.jrefinery.chart.axis (DG).MarkerAxisBand,source/org/jfree/chart/axis/MarkerAxisBand.java,12.00,12.00.00,12.00.00,12.00.00,12.00.00,12.00.00,3,1,0,0,0
+couldn't,couldn't,source/org/jfree/chart/axis/MarkerAxisBand.java,12.00,12.00.00,12.00.00,12.00.00,12.00.00,12.00.00,3,1,0,0,0
 org.jfree.chart.axis.ModuloAxis.java,org.jfree.chart.axis.ModuloAxis,source/org/jfree/chart/axis/ModuloAxis.java,19.00,19.00.00,19.00.00,19.00.00,19.00.00,19.00.00,3,1,0,0,0
 org.jfree.chart.axis.MonthDateFormat.java,org.jfree.chart.axis.MonthDateFormat,source/org/jfree/chart/axis/MonthDateFormat.java,11.00,11.00.00,11.00.00,11.00.00,11.00.00,11.00.00,3,1,0,0,0
-* 08-Nov-2002 : Moved to new  com.jrefinery.chart.axis (DG).NumberAxis.java,* 08-Nov-2002 : Moved to new  com.jrefinery.chart.axis (DG).NumberAxis,source/org/jfree/chart/axis/NumberAxis.java,65.00,65.00.00,65.00.00,65.00.00,65.00.00,65.00.00,3,1,0,0,0
-* 08-Nov-2002 : Moved to new  com.jrefinery.chart.axis (DG).NumberAxis3D.java,* 08-Nov-2002 : Moved to new  com.jrefinery.chart.axis (DG).NumberAxis3D,source/org/jfree/chart/axis/NumberAxis3D.java,8.00,8.00.00,8.00.00,8.00.00,8.00.00,8.00.00,3,1,0,0,0
+couldn't,couldn't,source/org/jfree/chart/axis/NumberAxis.java,65.00,65.00.00,65.00.00,65.00.00,65.00.00,65.00.00,3,1,0,0,0
+couldn't,couldn't,source/org/jfree/chart/axis/NumberAxis3D.java,8.00,8.00.00,8.00.00,8.00.00,8.00.00,8.00.00,3,1,0,0,0
 org.jfree.chart.axis.NumberTick.java,org.jfree.chart.axis.NumberTick,source/org/jfree/chart/axis/NumberTick.java,1.00,1.00.00,1.00.00,1.00.00,1.00.00,1.00.00,3,1,0,0,0
-* 08-Nov-2002 : Moved to new  com.jrefinery.chart.axis (DG).NumberTickUnit.java,* 08-Nov-2002 : Moved to new  com.jrefinery.chart.axis (DG).NumberTickUnit,source/org/jfree/chart/axis/NumberTickUnit.java,8.00,8.00.00,8.00.00,8.00.00,8.00.00,8.00.00,3,1,0,0,0
+couldn't,couldn't,source/org/jfree/chart/axis/NumberTickUnit.java,8.00,8.00.00,8.00.00,8.00.00,8.00.00,8.00.00,3,1,0,0,0
 org.jfree.chart.axis.PeriodAxis.java,org.jfree.chart.axis.PeriodAxis,source/org/jfree/chart/axis/PeriodAxis.java,78.00,78.00.00,78.00.00,78.00.00,78.00.00,78.00.00,3,1,0,0,0
 org.jfree.chart.axis.PeriodAxisLabelInfo.java,org.jfree.chart.axis.PeriodAxisLabelInfo,source/org/jfree/chart/axis/PeriodAxisLabelInfo.java,19.00,19.00.00,19.00.00,19.00.00,19.00.00,19.00.00,3,1,0,0,0
 org.jfree.chart.axis.QuarterDateFormat.java,org.jfree.chart.axis.QuarterDateFormat,source/org/jfree/chart/axis/QuarterDateFormat.java,7.00,7.00.00,7.00.00,7.00.00,7.00.00,7.00.00,3,1,0,0,0
 org.jfree.chart.axis.SegmentedTimeline.java,org.jfree.chart.axis.SegmentedTimeline,source/org/jfree/chart/axis/SegmentedTimeline.java,69.00,69.00.00,69.00.00,69.00.00,69.00.00,69.00.00,3,1,0,0,0
 org.jfree.chart.axis.StandardTickUnitSource.java,org.jfree.chart.axis.StandardTickUnitSource,source/org/jfree/chart/axis/StandardTickUnitSource.java,2.00,2.00.00,2.00.00,2.00.00,2.00.00,2.00.00,3,1,0,0,0
 org.jfree.chart.axis.SubCategoryAxis.java,org.jfree.chart.axis.SubCategoryAxis,source/org/jfree/chart/axis/SubCategoryAxis.java,30.00,30.00.00,30.00.00,30.00.00,30.00.00,30.00.00,3,1,0,0,0
-* 08-Nov-2002 : Moved to new  com.jrefinery.chart.axis (DG).SymbolAxis.java,* 08-Nov-2002 : Moved to new  com.jrefinery.chart.axis (DG).SymbolAxis,source/org/jfree/chart/axis/SymbolAxis.java,54.00,54.00.00,54.00.00,54.00.00,54.00.00,54.00.00,3,1,0,0,0
-* 08-Nov-2002 : Moved to new  com.jrefinery.chart.axis (DG).Tick.java,* 08-Nov-2002 : Moved to new  com.jrefinery.chart.axis (DG).Tick,source/org/jfree/chart/axis/Tick.java,9.00,9.00.00,9.00.00,9.00.00,9.00.00,9.00.00,3,1,0,0,0
+couldn't,couldn't,source/org/jfree/chart/axis/SymbolAxis.java,54.00,54.00.00,54.00.00,54.00.00,54.00.00,54.00.00,3,1,0,0,0
+couldn't,couldn't,source/org/jfree/chart/axis/Tick.java,9.00,9.00.00,9.00.00,9.00.00,9.00.00,9.00.00,3,1,0,0,0
 org.jfree.chart.axis.TickType.java,org.jfree.chart.axis.TickType,source/org/jfree/chart/axis/TickType.java,6.00,6.00.00,6.00.00,6.00.00,6.00.00,6.00.00,3,1,0,0,0
-* 08-Nov-2002 : Moved to new  com.jrefinery.chart.axis (DG).TickUnit.java,* 08-Nov-2002 : Moved to new  com.jrefinery.chart.axis (DG).TickUnit,source/org/jfree/chart/axis/TickUnit.java,9.00,9.00.00,9.00.00,9.00.00,9.00.00,9.00.00,3,1,0,0,0
-* 08-Nov-2002 : Moved to new  com.jrefinery.chart.axis (DG).TickUnits.java,* 08-Nov-2002 : Moved to new  com.jrefinery.chart.axis (DG).TickUnits,source/org/jfree/chart/axis/TickUnits.java,6.00,6.00.00,6.00.00,6.00.00,6.00.00,6.00.00,3,1,0,0,0
+couldn't,couldn't,source/org/jfree/chart/axis/TickUnit.java,9.00,9.00.00,9.00.00,9.00.00,9.00.00,9.00.00,3,1,0,0,0
+couldn't,couldn't,source/org/jfree/chart/axis/TickUnits.java,6.00,6.00.00,6.00.00,6.00.00,6.00.00,6.00.00,3,1,0,0,0
 org.jfree.chart.axis.TickUnitSource.java,org.jfree.chart.axis.TickUnitSource,source/org/jfree/chart/axis/TickUnitSource.java,1.00,1.00.00,1.00.00,1.00.00,1.00.00,1.00.00,3,1,0,0,0
 org.jfree.chart.axis.Timeline.java,org.jfree.chart.axis.Timeline,source/org/jfree/chart/axis/Timeline.java,1.00,1.00.00,1.00.00,1.00.00,1.00.00,1.00.00,3,1,0,0,0
-* 08-Nov-2002 : Moved to new  com.jrefinery.chart.axis (DG).ValueAxis.java,* 08-Nov-2002 : Moved to new  com.jrefinery.chart.axis (DG).ValueAxis,source/org/jfree/chart/axis/ValueAxis.java,93.00,93.00.00,93.00.00,93.00.00,93.00.00,93.00.00,3,1,0,0,0
+couldn't,couldn't,source/org/jfree/chart/axis/ValueAxis.java,93.00,93.00.00,93.00.00,93.00.00,93.00.00,93.00.00,3,1,0,0,0
 org.jfree.chart.axis.ValueTick.java,org.jfree.chart.axis.ValueTick,source/org/jfree/chart/axis/ValueTick.java,5.00,5.00.00,5.00.00,5.00.00,5.00.00,5.00.00,3,1,0,0,0
 org.jfree.chart.block.AbstractBlock.java,org.jfree.chart.block.AbstractBlock,source/org/jfree/chart/block/AbstractBlock.java,23.00,23.00.00,23.00.00,23.00.00,23.00.00,23.00.00,3,1,0,0,0
 org.jfree.chart.block.Arrangement.java,org.jfree.chart.block.Arrangement,source/org/jfree/chart/block/Arrangement.java,1.00,1.00.00,1.00.00,1.00.00,1.00.00,1.00.00,3,1,0,0,0
@@ -179,11 +179,11 @@ org.jfree.chart.event.ChartProgressEvent.java,org.jfree.chart.event.ChartProgres
 org.jfree.chart.event.ChartProgressListener.java,org.jfree.chart.event.ChartProgressListener,source/org/jfree/chart/event/ChartProgressListener.java,1.00,1.00.00,1.00.00,1.00.00,1.00.00,1.00.00,3,1,0,0,0
 org.jfree.chart.event.MarkerChangeEvent.java,org.jfree.chart.event.MarkerChangeEvent,source/org/jfree/chart/event/MarkerChangeEvent.java,1.00,1.00.00,1.00.00,1.00.00,1.00.00,1.00.00,3,1,0,0,0
 org.jfree.chart.event.MarkerChangeListener.java,org.jfree.chart.event.MarkerChangeListener,source/org/jfree/chart/event/MarkerChangeListener.java,1.00,1.00.00,1.00.00,1.00.00,1.00.00,1.00.00,3,1,0,0,0
-* 17-Jan-2003 : Moved plot classes to a separate  (DG).PlotChangeEvent.java,* 17-Jan-2003 : Moved plot classes to a separate  (DG).PlotChangeEvent,source/org/jfree/chart/event/PlotChangeEvent.java,1.00,1.00.00,1.00.00,1.00.00,1.00.00,1.00.00,3,1,0,0,0
+couldn't,couldn't,source/org/jfree/chart/event/PlotChangeEvent.java,1.00,1.00.00,1.00.00,1.00.00,1.00.00,1.00.00,3,1,0,0,0
 org.jfree.chart.event.PlotChangeListener.java,org.jfree.chart.event.PlotChangeListener,source/org/jfree/chart/event/PlotChangeListener.java,1.00,1.00.00,1.00.00,1.00.00,1.00.00,1.00.00,3,1,0,0,0
 org.jfree.chart.event.RendererChangeEvent.java,org.jfree.chart.event.RendererChangeEvent,source/org/jfree/chart/event/RendererChangeEvent.java,1.00,1.00.00,1.00.00,1.00.00,1.00.00,1.00.00,3,1,0,0,0
 org.jfree.chart.event.RendererChangeListener.java,org.jfree.chart.event.RendererChangeListener,source/org/jfree/chart/event/RendererChangeListener.java,1.00,1.00.00,1.00.00,1.00.00,1.00.00,1.00.00,3,1,0,0,0
-* 08-Jan-2004 : Renamed AbstractTitle --> Title and moved to new  (DG).TitleChangeEvent.java,* 08-Jan-2004 : Renamed AbstractTitle --> Title and moved to new  (DG).TitleChangeEvent,source/org/jfree/chart/event/TitleChangeEvent.java,1.00,1.00.00,1.00.00,1.00.00,1.00.00,1.00.00,3,1,0,0,0
+couldn't,couldn't,source/org/jfree/chart/event/TitleChangeEvent.java,1.00,1.00.00,1.00.00,1.00.00,1.00.00,1.00.00,3,1,0,0,0
 org.jfree.chart.event.TitleChangeListener.java,org.jfree.chart.event.TitleChangeListener,source/org/jfree/chart/event/TitleChangeListener.java,1.00,1.00.00,1.00.00,1.00.00,1.00.00,1.00.00,3,1,0,0,0
 org.jfree.chart.imagemap.DynamicDriveToolTipTagFragmentGenerator.java,org.jfree.chart.imagemap.DynamicDriveToolTipTagFragmentGenerator,source/org/jfree/chart/imagemap/DynamicDriveToolTipTagFragmentGenerator.java,1.00,1.00.00,1.00.00,1.00.00,1.00.00,1.00.00,3,1,0,0,0
 org.jfree.chart.imagemap.ImageMapUtilities.java,org.jfree.chart.imagemap.ImageMapUtilities,source/org/jfree/chart/imagemap/ImageMapUtilities.java,15.00,15.00.00,15.00.00,15.00.00,15.00.00,15.00.00,3,1,0,0,0
@@ -236,11 +236,11 @@ org.jfree.chart.needle.ShipNeedle.java,org.jfree.chart.needle.ShipNeedle,source/
 org.jfree.chart.needle.WindNeedle.java,org.jfree.chart.needle.WindNeedle,source/org/jfree/chart/needle/WindNeedle.java,7.00,7.00.00,7.00.00,7.00.00,7.00.00,7.00.00,3,1,0,0,0
 org.jfree.chart.plot.AbstractPieLabelDistributor.java,org.jfree.chart.plot.AbstractPieLabelDistributor,source/org/jfree/chart/plot/AbstractPieLabelDistributor.java,2.00,2.00.00,2.00.00,2.00.00,2.00.00,2.00.00,3,1,0,0,0
 org.jfree.chart.plot.CategoryMarker.java,org.jfree.chart.plot.CategoryMarker,source/org/jfree/chart/plot/CategoryMarker.java,7.00,7.00.00,7.00.00,7.00.00,7.00.00,7.00.00,3,1,0,0,0
-* 17-Jan-2003 : Moved to com.jrefinery.chart.plot  (DG).CategoryPlot.java,* 17-Jan-2003 : Moved to com.jrefinery.chart.plot  (DG).CategoryPlot,source/org/jfree/chart/plot/CategoryPlot.java,310.00,310.00.00,310.00.00,310.00.00,310.00.00,310.00.00,3,1,0,0,0
+couldn't,couldn't,source/org/jfree/chart/plot/CategoryPlot.java,310.00,310.00.00,310.00.00,310.00.00,310.00.00,310.00.00,3,1,0,0,0
 org.jfree.chart.plot.CombinedDomainCategoryPlot.java,org.jfree.chart.plot.CombinedDomainCategoryPlot,source/org/jfree/chart/plot/CombinedDomainCategoryPlot.java,51.00,51.00.00,51.00.00,51.00.00,51.00.00,51.00.00,3,1,0,0,0
-* 08-Jan-2002 : Moved to new  com.jrefinery.chart.combination (DG).CombinedDomainXYPlot.java,* 08-Jan-2002 : Moved to new  com.jrefinery.chart.combination (DG).CombinedDomainXYPlot,source/org/jfree/chart/plot/CombinedDomainXYPlot.java,51.00,51.00.00,51.00.00,51.00.00,51.00.00,51.00.00,3,1,0,0,0
+couldn't,couldn't,source/org/jfree/chart/plot/CombinedDomainXYPlot.java,51.00,51.00.00,51.00.00,51.00.00,51.00.00,51.00.00,3,1,0,0,0
 org.jfree.chart.plot.CombinedRangeCategoryPlot.java,org.jfree.chart.plot.CombinedRangeCategoryPlot,source/org/jfree/chart/plot/CombinedRangeCategoryPlot.java,44.00,44.00.00,44.00.00,44.00.00,44.00.00,44.00.00,3,1,0,0,0
-* 08-Jan-2002 : Moved to new  com.jrefinery.chart.combination (DG).CombinedRangeXYPlot.java,* 08-Jan-2002 : Moved to new  com.jrefinery.chart.combination (DG).CombinedRangeXYPlot,source/org/jfree/chart/plot/CombinedRangeXYPlot.java,47.00,47.00.00,47.00.00,47.00.00,47.00.00,47.00.00,3,1,0,0,0
+couldn't,couldn't,source/org/jfree/chart/plot/CombinedRangeXYPlot.java,47.00,47.00.00,47.00.00,47.00.00,47.00.00,47.00.00,3,1,0,0,0
 org.jfree.chart.plot.CompassPlot.java,org.jfree.chart.plot.CompassPlot,source/org/jfree/chart/plot/CompassPlot.java,62.00,62.00.00,62.00.00,62.00.00,62.00.00,62.00.00,3,1,0,0,0
 org.jfree.chart.plot.CrosshairState.java,org.jfree.chart.plot.CrosshairState,source/org/jfree/chart/plot/CrosshairState.java,7.00,7.00.00,7.00.00,7.00.00,7.00.00,7.00.00,3,1,0,0,0
 org.jfree.chart.plot.DatasetRenderingOrder.java,org.jfree.chart.plot.DatasetRenderingOrder,source/org/jfree/chart/plot/DatasetRenderingOrder.java,6.00,6.00.00,6.00.00,6.00.00,6.00.00,6.00.00,3,1,0,0,0
@@ -249,7 +249,7 @@ org.jfree.chart.plot.DialShape.java,org.jfree.chart.plot.DialShape,source/org/jf
 org.jfree.chart.plot.DrawingSupplier.java,org.jfree.chart.plot.DrawingSupplier,source/org/jfree/chart/plot/DrawingSupplier.java,1.00,1.00.00,1.00.00,1.00.00,1.00.00,1.00.00,3,1,0,0,0
 org.jfree.chart.plot.FastScatterPlot.java,org.jfree.chart.plot.FastScatterPlot,source/org/jfree/chart/plot/FastScatterPlot.java,52.00,52.00.00,52.00.00,52.00.00,52.00.00,52.00.00,3,1,0,0,0
 org.jfree.chart.plot.IntervalMarker.java,org.jfree.chart.plot.IntervalMarker,source/org/jfree/chart/plot/IntervalMarker.java,7.00,7.00.00,7.00.00,7.00.00,7.00.00,7.00.00,3,1,0,0,0
-* 08-Jan-2004 : Renamed AbstractTitle --> Title and moved to new  (DG).JThermometer.java,* 08-Jan-2004 : Renamed AbstractTitle --> Title and moved to new  (DG).JThermometer,source/org/jfree/chart/plot/JThermometer.java,10.00,10.00.00,10.00.00,10.00.00,10.00.00,10.00.00,3,1,0,0,0
+couldn't,couldn't,source/org/jfree/chart/plot/JThermometer.java,10.00,10.00.00,10.00.00,10.00.00,10.00.00,10.00.00,3,1,0,0,0
 L18193,Marker.java,source/org/jfree/chart/plot/Marker.java,31,0,31,0,264,682
 org.jfree.chart.plot.MeterInterval.java,org.jfree.chart.plot.MeterInterval,source/org/jfree/chart/plot/MeterInterval.java,10.00,10.00.00,10.00.00,10.00.00,10.00.00,10.00.00,3,1,0,0,0
 org.jfree.chart.plot.MeterPlot.java,org.jfree.chart.plot.MeterPlot,source/org/jfree/chart/plot/MeterPlot.java,83.00,83.00.00,83.00.00,83.00.00,83.00.00,83.00.00,3,1,0,0,0
@@ -275,7 +275,7 @@ org.jfree.chart.plot.ValueMarker.java,org.jfree.chart.plot.ValueMarker,source/or
 org.jfree.chart.plot.WaferMapPlot.java,org.jfree.chart.plot.WaferMapPlot,source/org/jfree/chart/plot/WaferMapPlot.java,21.00,21.00.00,21.00.00,21.00.00,21.00.00,21.00.00,3,1,0,0,0
 org.jfree.chart.plot.XYPlot.java,org.jfree.chart.plot.XYPlot,source/org/jfree/chart/plot/XYPlot.java,403.00,403.00.00,403.00.00,403.00.00,403.00.00,403.00.00,3,1,0,1,1
 org.jfree.chart.plot.Zoomable.java,org.jfree.chart.plot.Zoomable,source/org/jfree/chart/plot/Zoomable.java,1.00,1.00.00,1.00.00,1.00.00,1.00.00,1.00.00,3,1,0,0,0
-* 06-Nov-2002 : Moved to the com.jrefinery.chart.renderer  (DG).AbstractRenderer.java,* 06-Nov-2002 : Moved to the com.jrefinery.chart.renderer  (DG).AbstractRenderer,source/org/jfree/chart/renderer/AbstractRenderer.java,145.00,145.00.00,145.00.00,145.00.00,145.00.00,145.00.00,3,1,0,0,0
+couldn't,couldn't,source/org/jfree/chart/renderer/AbstractRenderer.java,145.00,145.00.00,145.00.00,145.00.00,145.00.00,145.00.00,3,1,0,0,0
 org.jfree.chart.renderer.AreaRendererEndType.java,org.jfree.chart.renderer.AreaRendererEndType,source/org/jfree/chart/renderer/AreaRendererEndType.java,7.00,7.00.00,7.00.00,7.00.00,7.00.00,7.00.00,3,1,0,0,0
 org.jfree.chart.renderer.DefaultPolarItemRenderer.java,org.jfree.chart.renderer.DefaultPolarItemRenderer,source/org/jfree/chart/renderer/DefaultPolarItemRenderer.java,13.00,13.00.00,13.00.00,13.00.00,13.00.00,13.00.00,3,1,0,0,0
 org.jfree.chart.renderer.GrayPaintScale.java,org.jfree.chart.renderer.GrayPaintScale,source/org/jfree/chart/renderer/GrayPaintScale.java,6.00,6.00.00,6.00.00,6.00.00,6.00.00,6.00.00,3,1,0,1,0
@@ -310,19 +310,19 @@ org.jfree.chart.title.LegendItemBlockContainer.java,org.jfree.chart.title.Legend
 org.jfree.chart.title.LegendTitle.java,org.jfree.chart.title.LegendTitle,source/org/jfree/chart/title/LegendTitle.java,27.00,27.00.00,27.00.00,27.00.00,27.00.00,27.00.00,3,1,0,0,0
 org.jfree.chart.title.PaintScaleLegend.java,org.jfree.chart.title.PaintScaleLegend,source/org/jfree/chart/title/PaintScaleLegend.java,43.00,43.00.00,43.00.00,43.00.00,43.00.00,43.00.00,3,1,0,0,0
 org.jfree.chart.title.TextTitle.java,org.jfree.chart.title.TextTitle,source/org/jfree/chart/title/TextTitle.java,67.00,67.00.00,67.00.00,67.00.00,67.00.00,67.00.00,3,1,0,0,0
-*                (DG).Title.java,*                (DG).Title,source/org/jfree/chart/title/Title.java,22.00,22.00.00,22.00.00,22.00.00,22.00.00,22.00.00,3,1,0,0,0
+couldn't,couldn't,source/org/jfree/chart/title/Title.java,22.00,22.00.00,22.00.00,22.00.00,22.00.00,22.00.00,3,1,0,0,0
 org.jfree.chart.ui.BasicProjectInfo.java,org.jfree.chart.ui.BasicProjectInfo,source/org/jfree/chart/ui/BasicProjectInfo.java,12.00,12.00.00,12.00.00,12.00.00,12.00.00,12.00.00,3,1,0,0,0
-* 28-Feb-2002 : Moved into  com.jrefinery.ui.about (DG).Contributor.java,* 28-Feb-2002 : Moved into  com.jrefinery.ui.about (DG).Contributor,source/org/jfree/chart/ui/Contributor.java,1.00,1.00.00,1.00.00,1.00.00,1.00.00,1.00.00,3,1,0,0,0
-* 26-Oct-2001 : Changed  to com.jrefinery.ui.* (DG).ExtensionFileFilter.java,* 26-Oct-2001 : Changed  to com.jrefinery.ui.* (DG).ExtensionFileFilter,source/org/jfree/chart/ui/ExtensionFileFilter.java,3.00,3.00.00,3.00.00,3.00.00,3.00.00,3.00.00,3,1,0,0,0
-* 26-Oct-2001 : Changed  to com.jrefinery.ui.*.FontChooserPanel.java,* 26-Oct-2001 : Changed  to com.jrefinery.ui.*.FontChooserPanel,source/org/jfree/chart/ui/FontChooserPanel.java,11.00,11.00.00,11.00.00,11.00.00,11.00.00,11.00.00,3,1,0,0,0
-* 26-Oct-2001 : Changed  to com.jrefinery.ui.*.FontDisplayField.java,* 26-Oct-2001 : Changed  to com.jrefinery.ui.*.FontDisplayField,source/org/jfree/chart/ui/FontDisplayField.java,2.00,2.00.00,2.00.00,2.00.00,2.00.00,2.00.00,3,1,0,0,0
-* 26-Oct-2001 : Changed  to com.jrefinery.layout.* (DG).LCBLayout.java,* 26-Oct-2001 : Changed  to com.jrefinery.layout.* (DG).LCBLayout,source/org/jfree/chart/ui/LCBLayout.java,21.00,21.00.00,21.00.00,21.00.00,21.00.00,21.00.00,3,1,0,0,0
+couldn't,couldn't,source/org/jfree/chart/ui/Contributor.java,1.00,1.00.00,1.00.00,1.00.00,1.00.00,1.00.00,3,1,0,0,0
+couldn't,couldn't,source/org/jfree/chart/ui/ExtensionFileFilter.java,3.00,3.00.00,3.00.00,3.00.00,3.00.00,3.00.00,3,1,0,0,0
+couldn't,couldn't,source/org/jfree/chart/ui/FontChooserPanel.java,11.00,11.00.00,11.00.00,11.00.00,11.00.00,11.00.00,3,1,0,0,0
+couldn't,couldn't,source/org/jfree/chart/ui/FontDisplayField.java,2.00,2.00.00,2.00.00,2.00.00,2.00.00,2.00.00,3,1,0,0,0
+couldn't,couldn't,source/org/jfree/chart/ui/LCBLayout.java,21.00,21.00.00,21.00.00,21.00.00,21.00.00,21.00.00,3,1,0,0,0
 org.jfree.chart.ui.Library.java,org.jfree.chart.ui.Library,source/org/jfree/chart/ui/Library.java,7.00,7.00.00,7.00.00,7.00.00,7.00.00,7.00.00,3,1,0,0,0
-* 28-Feb-2002 : Moved to  com.jrefinery.ui.about (DG).Licences.java,* 28-Feb-2002 : Moved to  com.jrefinery.ui.about (DG).Licences,source/org/jfree/chart/ui/Licences.java,2.00,2.00.00,2.00.00,2.00.00,2.00.00,2.00.00,3,1,0,0,0
-* 26-Oct-2001 : Changed  to com.jrefinery.ui.*.PaintSample.java,* 26-Oct-2001 : Changed  to com.jrefinery.ui.*.PaintSample,source/org/jfree/chart/ui/PaintSample.java,1.00,1.00.00,1.00.00,1.00.00,1.00.00,1.00.00,3,1,0,0,0
+couldn't,couldn't,source/org/jfree/chart/ui/Licences.java,2.00,2.00.00,2.00.00,2.00.00,2.00.00,2.00.00,3,1,0,0,0
+couldn't,couldn't,source/org/jfree/chart/ui/PaintSample.java,1.00,1.00.00,1.00.00,1.00.00,1.00.00,1.00.00,3,1,0,0,0
 org.jfree.chart.ui.ProjectInfo.java,org.jfree.chart.ui.ProjectInfo,source/org/jfree/chart/ui/ProjectInfo.java,5.00,5.00.00,5.00.00,5.00.00,5.00.00,5.00.00,3,1,0,0,0
-* 26-Oct-2001 : Changed  to com.jrefinery.ui.*.StrokeChooserPanel.java,* 26-Oct-2001 : Changed  to com.jrefinery.ui.*.StrokeChooserPanel,source/org/jfree/chart/ui/StrokeChooserPanel.java,1.00,1.00.00,1.00.00,1.00.00,1.00.00,1.00.00,3,1,0,0,0
-* 26-Oct-2001 : Changed  to com.jrefinery.ui.*.StrokeSample.java,* 26-Oct-2001 : Changed  to com.jrefinery.ui.*.StrokeSample,source/org/jfree/chart/ui/StrokeSample.java,3.00,3.00.00,3.00.00,3.00.00,3.00.00,3.00.00,3,1,0,0,0
+couldn't,couldn't,source/org/jfree/chart/ui/StrokeChooserPanel.java,1.00,1.00.00,1.00.00,1.00.00,1.00.00,1.00.00,3,1,0,0,0
+couldn't,couldn't,source/org/jfree/chart/ui/StrokeSample.java,3.00,3.00.00,3.00.00,3.00.00,3.00.00,3.00.00,3,1,0,0,0
 org.jfree.chart.urls.CategoryURLGenerator.java,org.jfree.chart.urls.CategoryURLGenerator,source/org/jfree/chart/urls/CategoryURLGenerator.java,1.00,1.00.00,1.00.00,1.00.00,1.00.00,1.00.00,3,1,0,0,0
 org.jfree.chart.urls.CustomPieURLGenerator.java,org.jfree.chart.urls.CustomPieURLGenerator,source/org/jfree/chart/urls/CustomPieURLGenerator.java,13.00,13.00.00,13.00.00,13.00.00,13.00.00,13.00.00,3,1,0,0,0
 org.jfree.chart.urls.CustomXYURLGenerator.java,org.jfree.chart.urls.CustomXYURLGenerator,source/org/jfree/chart/urls/CustomXYURLGenerator.java,14.00,14.00.00,14.00.00,14.00.00,14.00.00,14.00.00,3,1,0,0,0
@@ -348,7 +348,7 @@ org.jfree.chart.util.HorizontalAlignment.java,org.jfree.chart.util.HorizontalAli
 org.jfree.chart.util.Layer.java,org.jfree.chart.util.Layer,source/org/jfree/chart/util/Layer.java,6.00,6.00.00,6.00.00,6.00.00,6.00.00,6.00.00,3,1,0,0,0
 org.jfree.chart.util.LengthAdjustmentType.java,org.jfree.chart.util.LengthAdjustmentType,source/org/jfree/chart/util/LengthAdjustmentType.java,7.00,7.00.00,7.00.00,7.00.00,7.00.00,7.00.00,3,1,0,0,0
 org.jfree.chart.util.LogFormat.java,org.jfree.chart.util.LogFormat,source/org/jfree/chart/util/LogFormat.java,11.00,11.00.00,11.00.00,11.00.00,11.00.00,11.00.00,3,1,0,0,0
-* 26-Oct-2001 : Changed  to com.jrefinery.ui.*.NumberCellRenderer.java,* 26-Oct-2001 : Changed  to com.jrefinery.ui.*.NumberCellRenderer,source/org/jfree/chart/util/NumberCellRenderer.java,3.00,3.00.00,3.00.00,3.00.00,3.00.00,3.00.00,3,1,0,0,0
+couldn't,couldn't,source/org/jfree/chart/util/NumberCellRenderer.java,3.00,3.00.00,3.00.00,3.00.00,3.00.00,3.00.00,3,1,0,0,0
 org.jfree.chart.util.ObjectList.java,org.jfree.chart.util.ObjectList,source/org/jfree/chart/util/ObjectList.java,1.00,1.00.00,1.00.00,1.00.00,1.00.00,1.00.00,3,1,0,0,0
 org.jfree.chart.util.ObjectUtilities.java,org.jfree.chart.util.ObjectUtilities,source/org/jfree/chart/util/ObjectUtilities.java,36.00,36.00.00,36.00.00,36.00.00,36.00.00,36.00.00,3,1,0,0,0
 org.jfree.chart.util.PaintList.java,org.jfree.chart.util.PaintList,source/org/jfree/chart/util/PaintList.java,10.00,10.00.00,10.00.00,10.00.00,10.00.00,10.00.00,3,1,0,0,0
@@ -357,13 +357,13 @@ org.jfree.chart.util.PublicCloneable.java,org.jfree.chart.util.PublicCloneable,s
 org.jfree.chart.util.RectangleAnchor.java,org.jfree.chart.util.RectangleAnchor,source/org/jfree/chart/util/RectangleAnchor.java,31.00,31.00.00,31.00.00,31.00.00,31.00.00,31.00.00,3,1,0,0,0
 org.jfree.chart.util.RectangleEdge.java,org.jfree.chart.util.RectangleEdge,source/org/jfree/chart/util/RectangleEdge.java,18.00,18.00.00,18.00.00,18.00.00,18.00.00,18.00.00,3,1,0,0,0
 org.jfree.chart.util.RectangleInsets.java,org.jfree.chart.util.RectangleInsets,source/org/jfree/chart/util/RectangleInsets.java,33.00,33.00.00,33.00.00,33.00.00,33.00.00,33.00.00,3,1,0,0,0
-* 26-Oct-2001 : Changed  to com.jrefinery.ui.*.RefineryUtilities.java,* 26-Oct-2001 : Changed  to com.jrefinery.ui.*.RefineryUtilities,source/org/jfree/chart/util/RefineryUtilities.java,5.00,5.00.00,5.00.00,5.00.00,5.00.00,5.00.00,3,1,0,0,0
+couldn't,couldn't,source/org/jfree/chart/util/RefineryUtilities.java,5.00,5.00.00,5.00.00,5.00.00,5.00.00,5.00.00,3,1,0,0,0
 org.jfree.chart.util.RelativeDateFormat.java,org.jfree.chart.util.RelativeDateFormat,source/org/jfree/chart/util/RelativeDateFormat.java,24.00,24.00.00,24.00.00,24.00.00,24.00.00,24.00.00,3,1,0,0,0
 org.jfree.chart.util.Rotation.java,org.jfree.chart.util.Rotation,source/org/jfree/chart/util/Rotation.java,6.00,6.00.00,6.00.00,6.00.00,6.00.00,6.00.00,3,1,0,0,0
 org.jfree.chart.util.SerialUtilities.java,org.jfree.chart.util.SerialUtilities,source/org/jfree/chart/util/SerialUtilities.java,49.00,49.00.00,49.00.00,49.00.00,49.00.00,49.00.00,3,1,0,0,0
 org.jfree.chart.util.ShapeList.java,org.jfree.chart.util.ShapeList,source/org/jfree/chart/util/ShapeList.java,8.00,8.00.00,8.00.00,8.00.00,8.00.00,8.00.00,3,1,0,0,1
 org.jfree.chart.util.ShapeUtilities.java,org.jfree.chart.util.ShapeUtilities,source/org/jfree/chart/util/ShapeUtilities.java,51.00,51.00.00,51.00.00,51.00.00,51.00.00,51.00.00,3,1,0,1,0
-* 26-Oct-2001 : Changed  to com.jrefinery.ui.*.Size2D.java,* 26-Oct-2001 : Changed  to com.jrefinery.ui.*.Size2D,source/org/jfree/chart/util/Size2D.java,5.00,5.00.00,5.00.00,5.00.00,5.00.00,5.00.00,3,1,0,0,0
+couldn't,couldn't,source/org/jfree/chart/util/Size2D.java,5.00,5.00.00,5.00.00,5.00.00,5.00.00,5.00.00,3,1,0,0,0
 org.jfree.chart.util.SortOrder.java,org.jfree.chart.util.SortOrder,source/org/jfree/chart/util/SortOrder.java,6.00,6.00.00,6.00.00,6.00.00,6.00.00,6.00.00,3,1,0,0,0
 org.jfree.chart.util.StandardGradientPaintTransformer.java,org.jfree.chart.util.StandardGradientPaintTransformer,source/org/jfree/chart/util/StandardGradientPaintTransformer.java,10.00,10.00.00,10.00.00,10.00.00,10.00.00,10.00.00,3,1,0,0,0
 org.jfree.chart.util.StringUtilities.java,org.jfree.chart.util.StringUtilities,source/org/jfree/chart/util/StringUtilities.java,4.00,4.00.00,4.00.00,4.00.00,4.00.00,4.00.00,3,1,0,0,0
@@ -371,7 +371,7 @@ org.jfree.chart.util.StrokeList.java,org.jfree.chart.util.StrokeList,source/org/
 org.jfree.chart.util.TableOrder.java,org.jfree.chart.util.TableOrder,source/org/jfree/chart/util/TableOrder.java,6.00,6.00.00,6.00.00,6.00.00,6.00.00,6.00.00,3,1,0,0,0
 org.jfree.chart.util.UnitType.java,org.jfree.chart.util.UnitType,source/org/jfree/chart/util/UnitType.java,6.00,6.00.00,6.00.00,6.00.00,6.00.00,6.00.00,3,1,0,0,0
 org.jfree.chart.util.VerticalAlignment.java,org.jfree.chart.util.VerticalAlignment,source/org/jfree/chart/util/VerticalAlignment.java,7.00,7.00.00,7.00.00,7.00.00,7.00.00,7.00.00,3,1,0,0,0
-* 15-Oct-2001 : Moved to new  (com.jrefinery.data.*) (DG).CategoryDataset.java,* 15-Oct-2001 : Moved to new  (com.jrefinery.data.*) (DG).CategoryDataset,source/org/jfree/data/category/CategoryDataset.java,1.00,1.00.00,1.00.00,1.00.00,1.00.00,1.00.00,3,1,0,0,0
+couldn't,couldn't,source/org/jfree/data/category/CategoryDataset.java,1.00,1.00.00,1.00.00,1.00.00,1.00.00,1.00.00,3,1,0,0,0
 org.jfree.data.category.CategoryToPieDataset.java,org.jfree.data.category.CategoryToPieDataset,source/org/jfree/data/category/CategoryToPieDataset.java,31.00,31.00.00,31.00.00,31.00.00,31.00.00,31.00.00,3,1,0,0,0
 org.jfree.data.category.DefaultCategoryDataset.java,org.jfree.data.category.DefaultCategoryDataset,source/org/jfree/data/category/DefaultCategoryDataset.java,11.00,11.00.00,11.00.00,11.00.00,11.00.00,11.00.00,3,1,0,0,0
 org.jfree.data.category.DefaultIntervalCategoryDataset.java,org.jfree.data.category.DefaultIntervalCategoryDataset,source/org/jfree/data/category/DefaultIntervalCategoryDataset.java,64.00,64.00.00,64.00.00,64.00.00,64.00.00,64.00.00,3,1,0,1,0
@@ -384,13 +384,13 @@ org.jfree.data.gantt.GanttCategoryDataset.java,org.jfree.data.gantt.GanttCategor
 org.jfree.data.gantt.Task.java,org.jfree.data.gantt.Task,source/org/jfree/data/gantt/Task.java,10.00,10.00.00,10.00.00,10.00.00,10.00.00,10.00.00,3,1,0,0,0
 org.jfree.data.gantt.TaskSeries.java,org.jfree.data.gantt.TaskSeries,source/org/jfree/data/gantt/TaskSeries.java,8.00,8.00.00,8.00.00,8.00.00,8.00.00,8.00.00,3,1,0,0,0
 org.jfree.data.gantt.TaskSeriesCollection.java,org.jfree.data.gantt.TaskSeriesCollection,source/org/jfree/data/gantt/TaskSeriesCollection.java,33.00,33.00.00,33.00.00,33.00.00,33.00.00,33.00.00,3,1,0,0,0
-* 15-Oct-2001 : Moved to new  (com.jrefinery.data.*) (DG).AbstractDataset.java,* 15-Oct-2001 : Moved to new  (com.jrefinery.data.*) (DG).AbstractDataset,source/org/jfree/data/general/AbstractDataset.java,4.00,4.00.00,4.00.00,4.00.00,4.00.00,4.00.00,3,1,0,0,0
+couldn't,couldn't,source/org/jfree/data/general/AbstractDataset.java,4.00,4.00.00,4.00.00,4.00.00,4.00.00,4.00.00,3,1,0,0,0
 org.jfree.data.general.AbstractSeriesDataset.java,org.jfree.data.general.AbstractSeriesDataset,source/org/jfree/data/general/AbstractSeriesDataset.java,3.00,3.00.00,3.00.00,3.00.00,3.00.00,3.00.00,3,1,0,0,0
 org.jfree.data.general.CombinationDataset.java,org.jfree.data.general.CombinationDataset,source/org/jfree/data/general/CombinationDataset.java,1.00,1.00.00,1.00.00,1.00.00,1.00.00,1.00.00,3,1,0,0,0
 org.jfree.data.general.CombinedDataset.java,org.jfree.data.general.CombinedDataset,source/org/jfree/data/general/CombinedDataset.java,25.00,25.00.00,25.00.00,25.00.00,25.00.00,25.00.00,3,1,0,0,0
-* 15-Oct-2001 : Moved to a new  (com.jrefinery.data.*) (DG).Dataset.java,* 15-Oct-2001 : Moved to a new  (com.jrefinery.data.*) (DG).Dataset,source/org/jfree/data/general/Dataset.java,1.00,1.00.00,1.00.00,1.00.00,1.00.00,1.00.00,3,1,0,0,0
-* 15-Oct-2001 : Move to new  (com.jrefinery.data.*) (DG).DatasetChangeEvent.java,* 15-Oct-2001 : Move to new  (com.jrefinery.data.*) (DG).DatasetChangeEvent,source/org/jfree/data/general/DatasetChangeEvent.java,1.00,1.00.00,1.00.00,1.00.00,1.00.00,1.00.00,3,1,0,0,0
-* 15-Oct-2001 : Moved to new  (com.jrefinery.data.*) (DG).DatasetChangeListener.java,* 15-Oct-2001 : Moved to new  (com.jrefinery.data.*) (DG).DatasetChangeListener,source/org/jfree/data/general/DatasetChangeListener.java,1.00,1.00.00,1.00.00,1.00.00,1.00.00,1.00.00,3,1,0,0,0
+couldn't,couldn't,source/org/jfree/data/general/Dataset.java,1.00,1.00.00,1.00.00,1.00.00,1.00.00,1.00.00,3,1,0,0,0
+couldn't,couldn't,source/org/jfree/data/general/DatasetChangeEvent.java,1.00,1.00.00,1.00.00,1.00.00,1.00.00,1.00.00,3,1,0,0,0
+couldn't,couldn't,source/org/jfree/data/general/DatasetChangeListener.java,1.00,1.00.00,1.00.00,1.00.00,1.00.00,1.00.00,3,1,0,0,0
 org.jfree.data.general.DatasetGroup.java,org.jfree.data.general.DatasetGroup,source/org/jfree/data/general/DatasetGroup.java,5.00,5.00.00,5.00.00,5.00.00,5.00.00,5.00.00,3,1,0,0,0
 L43461,DatasetUtilities.java,source/org/jfree/data/general/DatasetUtilities.java,176,0,43,0,909,1616
 org.jfree.data.general.DefaultKeyedValueDataset.java,org.jfree.data.general.DefaultKeyedValueDataset,source/org/jfree/data/general/DefaultKeyedValueDataset.java,12.00,12.00.00,12.00.00,12.00.00,12.00.00,12.00.00,3,1,0,0,0
@@ -428,8 +428,8 @@ org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset.java,org.jfree.dat
 org.jfree.data.statistics.DefaultBoxAndWhiskerXYDataset.java,org.jfree.data.statistics.DefaultBoxAndWhiskerXYDataset,source/org/jfree/data/statistics/DefaultBoxAndWhiskerXYDataset.java,17.00,17.00.00,17.00.00,17.00.00,17.00.00,17.00.00,3,1,0,0,0
 org.jfree.data.statistics.DefaultMultiValueCategoryDataset.java,org.jfree.data.statistics.DefaultMultiValueCategoryDataset,source/org/jfree/data/statistics/DefaultMultiValueCategoryDataset.java,28.00,28.00.00,28.00.00,28.00.00,28.00.00,28.00.00,3,1,0,0,0
 org.jfree.data.statistics.DefaultStatisticalCategoryDataset.java,org.jfree.data.statistics.DefaultStatisticalCategoryDataset,source/org/jfree/data/statistics/DefaultStatisticalCategoryDataset.java,58.00,58.00.00,58.00.00,58.00.00,58.00.00,58.00.00,3,1,0,0,0
-* 07-Jul-2003 : Changed  and added Javadocs (DG).HistogramBin.java,* 07-Jul-2003 : Changed  and added Javadocs (DG).HistogramBin,source/org/jfree/data/statistics/HistogramBin.java,7.00,7.00.00,7.00.00,7.00.00,7.00.00,7.00.00,3,1,0,0,0
-* 07-Jul-2003 : Changed  and added Javadocs (DG).HistogramDataset.java,* 07-Jul-2003 : Changed  and added Javadocs (DG).HistogramDataset,source/org/jfree/data/statistics/HistogramDataset.java,26.00,26.00.00,26.00.00,26.00.00,26.00.00,26.00.00,3,1,0,0,0
+couldn't,couldn't,source/org/jfree/data/statistics/HistogramBin.java,7.00,7.00.00,7.00.00,7.00.00,7.00.00,7.00.00,3,1,0,0,0
+couldn't,couldn't,source/org/jfree/data/statistics/HistogramDataset.java,26.00,26.00.00,26.00.00,26.00.00,26.00.00,26.00.00,3,1,0,0,0
 org.jfree.data.statistics.HistogramType.java,org.jfree.data.statistics.HistogramType,source/org/jfree/data/statistics/HistogramType.java,8.00,8.00.00,8.00.00,8.00.00,8.00.00,8.00.00,3,1,0,0,0
 org.jfree.data.statistics.MeanAndStandardDeviation.java,org.jfree.data.statistics.MeanAndStandardDeviation,source/org/jfree/data/statistics/MeanAndStandardDeviation.java,7.00,7.00.00,7.00.00,7.00.00,7.00.00,7.00.00,3,1,0,0,0
 org.jfree.data.statistics.MultiValueCategoryDataset.java,org.jfree.data.statistics.MultiValueCategoryDataset,source/org/jfree/data/statistics/MultiValueCategoryDataset.java,1.00,1.00.00,1.00.00,1.00.00,1.00.00,1.00.00,3,1,0,0,0
@@ -440,7 +440,7 @@ org.jfree.data.statistics.StatisticalCategoryDataset.java,org.jfree.data.statist
 L45362,Statistics.java,source/org/jfree/data/statistics/Statistics.java,44,0,14,0,256,491
 org.jfree.data.time.DateRange.java,org.jfree.data.time.DateRange,source/org/jfree/data/time/DateRange.java,1.00,1.00.00,1.00.00,1.00.00,1.00.00,1.00.00,3,1,0,0,0
 L46921,Day.java,source/org/jfree/data/time/Day.java,13,0,23,0,167,465
-* 13-Mar-2003 : Moved to com.jrefinery.data.time  (DG).DynamicTimeSeriesCollection.java,* 13-Mar-2003 : Moved to com.jrefinery.data.time  (DG).DynamicTimeSeriesCollection,source/org/jfree/data/time/DynamicTimeSeriesCollection.java,48.00,48.00.00,48.00.00,48.00.00,48.00.00,48.00.00,3,1,0,0,0
+couldn't,couldn't,source/org/jfree/data/time/DynamicTimeSeriesCollection.java,48.00,48.00.00,48.00.00,48.00.00,48.00.00,48.00.00,3,1,0,0,0
 L46923,FixedMillisecond.java,source/org/jfree/data/time/FixedMillisecond.java,8,0,18,0,98,291
 L46924,Hour.java,source/org/jfree/data/time/Hour.java,18,0,23,0,176,465
 L46925,Millisecond.java,source/org/jfree/data/time/Millisecond.java,16,0,19,0,162,418
@@ -449,14 +449,14 @@ L46927,Month.java,source/org/jfree/data/time/Month.java,25,0,22,0,212,518
 org.jfree.data.time.MonthConstants.java,org.jfree.data.time.MonthConstants,source/org/jfree/data/time/MonthConstants.java,1.00,1.00.00,1.00.00,1.00.00,1.00.00,1.00.00,3,1,0,0,0
 org.jfree.data.time.MovingAverage.java,org.jfree.data.time.MovingAverage,source/org/jfree/data/time/MovingAverage.java,33.00,33.00.00,33.00.00,33.00.00,33.00.00,33.00.00,3,1,0,0,0
 L46930,Quarter.java,source/org/jfree/data/time/Quarter.java,17,0,22,0,176,466
-* 13-Mar-2003 : Moved to com.jrefinery.data.time  (DG).RegularTimePeriod.java,* 13-Mar-2003 : Moved to com.jrefinery.data.time  (DG).RegularTimePeriod,source/org/jfree/data/time/RegularTimePeriod.java,9.00,9.00.00,9.00.00,9.00.00,9.00.00,9.00.00,3,1,0,0,0
+couldn't,couldn't,source/org/jfree/data/time/RegularTimePeriod.java,9.00,9.00.00,9.00.00,9.00.00,9.00.00,9.00.00,3,1,0,0,0
 L46932,Second.java,source/org/jfree/data/time/Second.java,23,0,20,0,182,454
-* 11-Oct-2001 : Re-organised the class and moved it to new .SerialDate.java,* 11-Oct-2001 : Re-organised the class and moved it to new .SerialDate,source/org/jfree/data/time/SerialDate.java,69.00,69.00.00,69.00.00,69.00.00,69.00.00,69.00.00,3,1,0,0,0
+couldn't,couldn't,source/org/jfree/data/time/SerialDate.java,69.00,69.00.00,69.00.00,69.00.00,69.00.00,69.00.00,3,1,0,0,0
 org.jfree.data.time.SimpleTimePeriod.java,org.jfree.data.time.SimpleTimePeriod,source/org/jfree/data/time/SimpleTimePeriod.java,12.00,12.00.00,12.00.00,12.00.00,12.00.00,12.00.00,3,1,0,0,0
 org.jfree.data.time.SpreadsheetDate.java,org.jfree.data.time.SpreadsheetDate,source/org/jfree/data/time/SpreadsheetDate.java,23.00,23.00.00,23.00.00,23.00.00,23.00.00,23.00.00,3,1,0,0,0
-* 13-Mar-2003 : Moved to com.jrefinery.data.time  (DG).TimePeriod.java,* 13-Mar-2003 : Moved to com.jrefinery.data.time  (DG).TimePeriod,source/org/jfree/data/time/TimePeriod.java,1.00,1.00.00,1.00.00,1.00.00,1.00.00,1.00.00,3,1,0,0,0
+couldn't,couldn't,source/org/jfree/data/time/TimePeriod.java,1.00,1.00.00,1.00.00,1.00.00,1.00.00,1.00.00,3,1,0,0,0
 org.jfree.data.time.TimePeriodAnchor.java,org.jfree.data.time.TimePeriodAnchor,source/org/jfree/data/time/TimePeriodAnchor.java,7.00,7.00.00,7.00.00,7.00.00,7.00.00,7.00.00,3,1,0,0,0
-* 13-Mar-2003 : Moved to com.jrefinery.data.time  (DG).TimePeriodFormatException.java,* 13-Mar-2003 : Moved to com.jrefinery.data.time  (DG).TimePeriodFormatException,source/org/jfree/data/time/TimePeriodFormatException.java,1.00,1.00.00,1.00.00,1.00.00,1.00.00,1.00.00,3,1,0,0,0
+couldn't,couldn't,source/org/jfree/data/time/TimePeriodFormatException.java,1.00,1.00.00,1.00.00,1.00.00,1.00.00,1.00.00,3,1,0,0,0
 org.jfree.data.time.TimePeriodValue.java,org.jfree.data.time.TimePeriodValue,source/org/jfree/data/time/TimePeriodValue.java,11.00,11.00.00,11.00.00,11.00.00,11.00.00,11.00.00,3,1,0,0,0
 org.jfree.data.time.TimePeriodValues.java,org.jfree.data.time.TimePeriodValues,source/org/jfree/data/time/TimePeriodValues.java,29.00,29.00.00,29.00.00,29.00.00,29.00.00,29.00.00,3,3,1,0,0
 org.jfree.data.time.TimePeriodValuesCollection.java,org.jfree.data.time.TimePeriodValuesCollection,source/org/jfree/data/time/TimePeriodValuesCollection.java,23.00,23.00.00,23.00.00,23.00.00,23.00.00,23.00.00,3,1,0,0,0
@@ -494,7 +494,7 @@ org.jfree.data.xy.MatrixSeries.java,org.jfree.data.xy.MatrixSeries,source/org/jf
 org.jfree.data.xy.MatrixSeriesCollection.java,org.jfree.data.xy.MatrixSeriesCollection,source/org/jfree/data/xy/MatrixSeriesCollection.java,14.00,14.00.00,14.00.00,14.00.00,14.00.00,14.00.00,3,1,0,0,0
 org.jfree.data.xy.NormalizedMatrixSeries.java,org.jfree.data.xy.NormalizedMatrixSeries,source/org/jfree/data/xy/NormalizedMatrixSeries.java,1.00,1.00.00,1.00.00,1.00.00,1.00.00,1.00.00,3,1,0,0,0
 org.jfree.data.xy.OHLCDataItem.java,org.jfree.data.xy.OHLCDataItem,source/org/jfree/data/xy/OHLCDataItem.java,10.00,10.00.00,10.00.00,10.00.00,10.00.00,10.00.00,3,1,0,0,0
-* 16-Oct-2001 : Moved to  com.jrefinery.data.* (DG).OHLCDataset.java,* 16-Oct-2001 : Moved to  com.jrefinery.data.* (DG).OHLCDataset,source/org/jfree/data/xy/OHLCDataset.java,1.00,1.00.00,1.00.00,1.00.00,1.00.00,1.00.00,3,1,0,0,0
+couldn't,couldn't,source/org/jfree/data/xy/OHLCDataset.java,1.00,1.00.00,1.00.00,1.00.00,1.00.00,1.00.00,3,1,0,0,0
 org.jfree.data.xy.TableXYDataset.java,org.jfree.data.xy.TableXYDataset,source/org/jfree/data/xy/TableXYDataset.java,1.00,1.00.00,1.00.00,1.00.00,1.00.00,1.00.00,3,1,0,0,0
 org.jfree.data.xy.Vector.java,org.jfree.data.xy.Vector,source/org/jfree/data/xy/Vector.java,5.00,5.00.00,5.00.00,5.00.00,5.00.00,5.00.00,3,1,0,0,0
 org.jfree.data.xy.VectorDataItem.java,org.jfree.data.xy.VectorDataItem,source/org/jfree/data/xy/VectorDataItem.java,3.00,3.00.00,3.00.00,3.00.00,3.00.00,3.00.00,3,1,0,0,0
@@ -509,7 +509,7 @@ org.jfree.data.xy.XisSymbolic.java,org.jfree.data.xy.XisSymbolic,source/org/jfre
 org.jfree.data.xy.XYBarDataset.java,org.jfree.data.xy.XYBarDataset,source/org/jfree/data/xy/XYBarDataset.java,8.00,8.00.00,8.00.00,8.00.00,8.00.00,8.00.00,3,1,0,0,0
 org.jfree.data.xy.XYCoordinate.java,org.jfree.data.xy.XYCoordinate,source/org/jfree/data/xy/XYCoordinate.java,10.00,10.00.00,10.00.00,10.00.00,10.00.00,10.00.00,3,1,0,0,0
 org.jfree.data.xy.XYDataItem.java,org.jfree.data.xy.XYDataItem,source/org/jfree/data/xy/XYDataItem.java,11.00,11.00.00,11.00.00,11.00.00,11.00.00,11.00.00,3,1,0,0,0
-* 15-Oct-2001 : Moved to a new  (com.jrefinery.data.*) (DG).XYDataset.java,* 15-Oct-2001 : Moved to a new  (com.jrefinery.data.*) (DG).XYDataset,source/org/jfree/data/xy/XYDataset.java,1.00,1.00.00,1.00.00,1.00.00,1.00.00,1.00.00,3,1,0,0,0
+couldn't,couldn't,source/org/jfree/data/xy/XYDataset.java,1.00,1.00.00,1.00.00,1.00.00,1.00.00,1.00.00,3,1,0,0,0
 org.jfree.data.xy.XYDatasetTableModel.java,org.jfree.data.xy.XYDatasetTableModel,source/org/jfree/data/xy/XYDatasetTableModel.java,8.00,8.00.00,8.00.00,8.00.00,8.00.00,8.00.00,3,1,0,0,0
 org.jfree.data.xy.XYInterval.java,org.jfree.data.xy.XYInterval,source/org/jfree/data/xy/XYInterval.java,8.00,8.00.00,8.00.00,8.00.00,8.00.00,8.00.00,3,1,0,0,0
 org.jfree.data.xy.XYIntervalDataItem.java,org.jfree.data.xy.XYIntervalDataItem,source/org/jfree/data/xy/XYIntervalDataItem.java,6.00,6.00.00,6.00.00,6.00.00,6.00.00,6.00.00,3,1,0,0,0
@@ -540,10 +540,10 @@ org.jfree.chart.plot.dial.DialValueIndicator.java,org.jfree.chart.plot.dial.Dial
 org.jfree.chart.plot.dial.StandardDialFrame.java,org.jfree.chart.plot.dial.StandardDialFrame,source/org/jfree/chart/plot/dial/StandardDialFrame.java,11.00,11.00.00,11.00.00,11.00.00,11.00.00,11.00.00,3,1,0,0,0
 org.jfree.chart.plot.dial.StandardDialRange.java,org.jfree.chart.plot.dial.StandardDialRange,source/org/jfree/chart/plot/dial/StandardDialRange.java,15.00,15.00.00,15.00.00,15.00.00,15.00.00,15.00.00,3,1,0,0,0
 org.jfree.chart.plot.dial.StandardDialScale.java,org.jfree.chart.plot.dial.StandardDialScale,source/org/jfree/chart/plot/dial/StandardDialScale.java,42.00,42.00.00,42.00.00,42.00.00,42.00.00,42.00.00,3,1,0,0,0
-* 17-Jan-2003 : Moved plot classes into separate  (DG).AbstractCategoryItemRenderer.java,* 17-Jan-2003 : Moved plot classes into separate  (DG).AbstractCategoryItemRenderer,source/org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.java,100.00,100.00.00,100.00.00,100.00.00,100.00.00,100.00.00,3,1,0,0,0
-* 17-Jan-2003 : Moved plot classes into a separate  (DG).AreaRenderer.java,* 17-Jan-2003 : Moved plot classes into a separate  (DG).AreaRenderer,source/org/jfree/chart/renderer/category/AreaRenderer.java,23.00,23.00.00,23.00.00,23.00.00,23.00.00,23.00.00,3,1,0,0,0
-* 17-Jan-2003 : Moved plot classes into a separate  (DG).BarRenderer.java,* 17-Jan-2003 : Moved plot classes into a separate  (DG).BarRenderer,source/org/jfree/chart/renderer/category/BarRenderer.java,89.00,89.00.00,89.00.00,89.00.00,89.00.00,89.00.00,3,1,0,0,0
-* 06-Nov-2002 : Moved to the com.jrefinery.chart.renderer  (DG).BarRenderer3D.java,* 06-Nov-2002 : Moved to the com.jrefinery.chart.renderer  (DG).BarRenderer3D,source/org/jfree/chart/renderer/category/BarRenderer3D.java,37.00,37.00.00,37.00.00,37.00.00,37.00.00,37.00.00,3,1,0,0,0
+couldn't,couldn't,source/org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.java,100.00,100.00.00,100.00.00,100.00.00,100.00.00,100.00.00,3,1,0,0,0
+couldn't,couldn't,source/org/jfree/chart/renderer/category/AreaRenderer.java,23.00,23.00.00,23.00.00,23.00.00,23.00.00,23.00.00,3,1,0,0,0
+couldn't,couldn't,source/org/jfree/chart/renderer/category/BarRenderer.java,89.00,89.00.00,89.00.00,89.00.00,89.00.00,89.00.00,3,1,0,0,0
+couldn't,couldn't,source/org/jfree/chart/renderer/category/BarRenderer3D.java,37.00,37.00.00,37.00.00,37.00.00,37.00.00,37.00.00,3,1,0,0,0
 org.jfree.chart.renderer.category.BoxAndWhiskerRenderer.java,org.jfree.chart.renderer.category.BoxAndWhiskerRenderer,source/org/jfree/chart/renderer/category/BoxAndWhiskerRenderer.java,60.00,60.00.00,60.00.00,60.00.00,60.00.00,60.00.00,3,1,0,0,0
 org.jfree.chart.renderer.category.CategoryItemRenderer.java,org.jfree.chart.renderer.category.CategoryItemRenderer,source/org/jfree/chart/renderer/category/CategoryItemRenderer.java,1.00,1.00.00,1.00.00,1.00.00,1.00.00,1.00.00,3,1,0,0,0
 org.jfree.chart.renderer.category.CategoryItemRendererState.java,org.jfree.chart.renderer.category.CategoryItemRendererState,source/org/jfree/chart/renderer/category/CategoryItemRendererState.java,1.00,1.00.00,1.00.00,1.00.00,1.00.00,1.00.00,3,1,0,0,0
@@ -554,17 +554,17 @@ org.jfree.chart.renderer.category.GroupedStackedBarRenderer.java,org.jfree.chart
 org.jfree.chart.renderer.category.IntervalBarRenderer.java,org.jfree.chart.renderer.category.IntervalBarRenderer,source/org/jfree/chart/renderer/category/IntervalBarRenderer.java,16.00,16.00.00,16.00.00,16.00.00,16.00.00,16.00.00,3,1,0,0,0
 org.jfree.chart.renderer.category.LayeredBarRenderer.java,org.jfree.chart.renderer.category.LayeredBarRenderer,source/org/jfree/chart/renderer/category/LayeredBarRenderer.java,49.00,49.00.00,49.00.00,49.00.00,49.00.00,49.00.00,3,1,0,0,0
 org.jfree.chart.renderer.category.LevelRenderer.java,org.jfree.chart.renderer.category.LevelRenderer,source/org/jfree/chart/renderer/category/LevelRenderer.java,20.00,20.00.00,20.00.00,20.00.00,20.00.00,20.00.00,3,1,0,0,0
-* 17-Jan-2003 : Moved plot classes to a separate  (DG).LineAndShapeRenderer.java,* 17-Jan-2003 : Moved plot classes to a separate  (DG).LineAndShapeRenderer,source/org/jfree/chart/renderer/category/LineAndShapeRenderer.java,48.00,48.00.00,48.00.00,48.00.00,48.00.00,48.00.00,3,1,0,0,0
+couldn't,couldn't,source/org/jfree/chart/renderer/category/LineAndShapeRenderer.java,48.00,48.00.00,48.00.00,48.00.00,48.00.00,48.00.00,3,1,0,0,0
 org.jfree.chart.renderer.category.LineRenderer3D.java,org.jfree.chart.renderer.category.LineRenderer3D,source/org/jfree/chart/renderer/category/LineRenderer3D.java,31.00,31.00.00,31.00.00,31.00.00,31.00.00,31.00.00,3,1,0,0,0
-* 17-Jan-2003 : Moved plot classes to a separate  (DG).MinMaxCategoryRenderer.java,* 17-Jan-2003 : Moved plot classes to a separate  (DG).MinMaxCategoryRenderer,source/org/jfree/chart/renderer/category/MinMaxCategoryRenderer.java,29.00,29.00.00,29.00.00,29.00.00,29.00.00,29.00.00,3,1,0,0,0
+couldn't,couldn't,source/org/jfree/chart/renderer/category/MinMaxCategoryRenderer.java,29.00,29.00.00,29.00.00,29.00.00,29.00.00,29.00.00,3,1,0,0,0
 org.jfree.chart.renderer.category.ScatterRenderer.java,org.jfree.chart.renderer.category.ScatterRenderer,source/org/jfree/chart/renderer/category/ScatterRenderer.java,30.00,30.00.00,30.00.00,30.00.00,30.00.00,30.00.00,3,1,0,0,0
-* 17-Jan-2003 : Moved plot classes to a separate  (DG).StackedAreaRenderer.java,* 17-Jan-2003 : Moved plot classes to a separate  (DG).StackedAreaRenderer,source/org/jfree/chart/renderer/category/StackedAreaRenderer.java,28.00,28.00.00,28.00.00,28.00.00,28.00.00,28.00.00,3,1,0,0,0
-* 17-Jan-2003 : Moved plot classes to a separate  (DG).StackedBarRenderer.java,* 17-Jan-2003 : Moved plot classes to a separate  (DG).StackedBarRenderer,source/org/jfree/chart/renderer/category/StackedBarRenderer.java,27.00,27.00.00,27.00.00,27.00.00,27.00.00,27.00.00,3,1,0,0,0
-* 17-Jan-2003 : Moved plot classes to a separate  (DG).StackedBarRenderer3D.java,* 17-Jan-2003 : Moved plot classes to a separate  (DG).StackedBarRenderer3D,source/org/jfree/chart/renderer/category/StackedBarRenderer3D.java,51.00,51.00.00,51.00.00,51.00.00,51.00.00,51.00.00,3,1,0,0,0
+couldn't,couldn't,source/org/jfree/chart/renderer/category/StackedAreaRenderer.java,28.00,28.00.00,28.00.00,28.00.00,28.00.00,28.00.00,3,1,0,0,0
+couldn't,couldn't,source/org/jfree/chart/renderer/category/StackedBarRenderer.java,27.00,27.00.00,27.00.00,27.00.00,27.00.00,27.00.00,3,1,0,0,0
+couldn't,couldn't,source/org/jfree/chart/renderer/category/StackedBarRenderer3D.java,51.00,51.00.00,51.00.00,51.00.00,51.00.00,51.00.00,3,1,0,0,0
 org.jfree.chart.renderer.category.StatisticalBarRenderer.java,org.jfree.chart.renderer.category.StatisticalBarRenderer,source/org/jfree/chart/renderer/category/StatisticalBarRenderer.java,44.00,44.00.00,44.00.00,44.00.00,44.00.00,44.00.00,3,1,0,1,0
 org.jfree.chart.renderer.category.StatisticalLineAndShapeRenderer.java,org.jfree.chart.renderer.category.StatisticalLineAndShapeRenderer,source/org/jfree/chart/renderer/category/StatisticalLineAndShapeRenderer.java,27.00,27.00.00,27.00.00,27.00.00,27.00.00,27.00.00,3,1,0,0,0
 org.jfree.chart.renderer.category.WaterfallBarRenderer.java,org.jfree.chart.renderer.category.WaterfallBarRenderer,source/org/jfree/chart/renderer/category/WaterfallBarRenderer.java,42.00,42.00.00,42.00.00,42.00.00,42.00.00,42.00.00,3,1,0,0,0
-* 17-Jan-2003 : Moved plot classes into a separate  (DG).AbstractXYItemRenderer.java,* 17-Jan-2003 : Moved plot classes into a separate  (DG).AbstractXYItemRenderer,source/org/jfree/chart/renderer/xy/AbstractXYItemRenderer.java,120.00,120.00.00,120.00.00,120.00.00,120.00.00,120.00.00,3,1,0,0,0
+couldn't,couldn't,source/org/jfree/chart/renderer/xy/AbstractXYItemRenderer.java,120.00,120.00.00,120.00.00,120.00.00,120.00.00,120.00.00,3,1,0,0,0
 org.jfree.chart.renderer.xy.CandlestickRenderer.java,org.jfree.chart.renderer.xy.CandlestickRenderer,source/org/jfree/chart/renderer/xy/CandlestickRenderer.java,49.00,49.00.00,49.00.00,49.00.00,49.00.00,49.00.00,3,1,0,0,0
 org.jfree.chart.renderer.xy.ClusteredXYBarRenderer.java,org.jfree.chart.renderer.xy.ClusteredXYBarRenderer,source/org/jfree/chart/renderer/xy/ClusteredXYBarRenderer.java,24.00,24.00.00,24.00.00,24.00.00,24.00.00,24.00.00,3,1,0,0,0
 org.jfree.chart.renderer.xy.CyclicXYItemRenderer.java,org.jfree.chart.renderer.xy.CyclicXYItemRenderer,source/org/jfree/chart/renderer/xy/CyclicXYItemRenderer.java,51.00,51.00.00,51.00.00,51.00.00,51.00.00,51.00.00,3,1,0,0,0
@@ -586,7 +586,7 @@ org.jfree.chart.renderer.xy.XYBubbleRenderer.java,org.jfree.chart.renderer.xy.XY
 org.jfree.chart.renderer.xy.XYDifferenceRenderer.java,org.jfree.chart.renderer.xy.XYDifferenceRenderer,source/org/jfree/chart/renderer/xy/XYDifferenceRenderer.java,99.00,99.00.00,99.00.00,99.00.00,99.00.00,99.00.00,3,1,0,0,0
 org.jfree.chart.renderer.xy.XYDotRenderer.java,org.jfree.chart.renderer.xy.XYDotRenderer,source/org/jfree/chart/renderer/xy/XYDotRenderer.java,17.00,17.00.00,17.00.00,17.00.00,17.00.00,17.00.00,3,1,0,0,0
 org.jfree.chart.renderer.xy.XYErrorRenderer.java,org.jfree.chart.renderer.xy.XYErrorRenderer,source/org/jfree/chart/renderer/xy/XYErrorRenderer.java,20.00,20.00.00,20.00.00,20.00.00,20.00.00,20.00.00,3,1,0,0,0
-* 17-Jan-2003 : Moved plot classes into a separate  (DG).XYItemRenderer.java,* 17-Jan-2003 : Moved plot classes into a separate  (DG).XYItemRenderer,source/org/jfree/chart/renderer/xy/XYItemRenderer.java,1.00,1.00.00,1.00.00,1.00.00,1.00.00,1.00.00,3,1,0,0,0
+couldn't,couldn't,source/org/jfree/chart/renderer/xy/XYItemRenderer.java,1.00,1.00.00,1.00.00,1.00.00,1.00.00,1.00.00,3,1,0,0,0
 org.jfree.chart.renderer.xy.XYItemRendererState.java,org.jfree.chart.renderer.xy.XYItemRendererState,source/org/jfree/chart/renderer/xy/XYItemRendererState.java,1.00,1.00.00,1.00.00,1.00.00,1.00.00,1.00.00,3,1,0,0,0
 org.jfree.chart.renderer.xy.XYLine3DRenderer.java,org.jfree.chart.renderer.xy.XYLine3DRenderer,source/org/jfree/chart/renderer/xy/XYLine3DRenderer.java,9.00,9.00.00,9.00.00,9.00.00,9.00.00,9.00.00,3,1,0,0,0
 org.jfree.chart.renderer.xy.XYLineAndShapeRenderer.java,org.jfree.chart.renderer.xy.XYLineAndShapeRenderer,source/org/jfree/chart/renderer/xy/XYLineAndShapeRenderer.java,67.00,67.00.00,67.00.00,67.00.00,67.00.00,67.00.00,3,1,0,0,0
@@ -606,7 +606,7 @@ org.jfree.chart.junit.ChartPanelTests.java,org.jfree.chart.junit.ChartPanelTests
 org.jfree.chart.junit.ChartRenderingInfoTests.java,org.jfree.chart.junit.ChartRenderingInfoTests,tests/org/jfree/chart/junit/ChartRenderingInfoTests.java,4.00,4.00.00,4.00.00,4.00.00,4.00.00,4.00.00,3,1,0,0,0
 org.jfree.chart.junit.GanttChartTests.java,org.jfree.chart.junit.GanttChartTests,tests/org/jfree/chart/junit/GanttChartTests.java,3.00,3.00.00,3.00.00,3.00.00,3.00.00,3.00.00,3,1,0,0,0
 org.jfree.chart.junit.JFreeChartTests.java,org.jfree.chart.junit.JFreeChartTests,tests/org/jfree/chart/junit/JFreeChartTests.java,11.00,11.00.00,11.00.00,11.00.00,11.00.00,11.00.00,3,1,0,0,0
-* 13-Mar-2003 : Added tests for new com.jrefinery.data.time  (DG).JFreeChartTestSuite.java,* 13-Mar-2003 : Added tests for new com.jrefinery.data.time  (DG).JFreeChartTestSuite,tests/org/jfree/chart/junit/JFreeChartTestSuite.java,1.00,1.00.00,1.00.00,1.00.00,1.00.00,1.00.00,3,1,0,0,0
+couldn't,couldn't,tests/org/jfree/chart/junit/JFreeChartTestSuite.java,1.00,1.00.00,1.00.00,1.00.00,1.00.00,1.00.00,3,1,0,0,0
 org.jfree.chart.junit.LegendItemCollectionTests.java,org.jfree.chart.junit.LegendItemCollectionTests,tests/org/jfree/chart/junit/LegendItemCollectionTests.java,3.00,3.00.00,3.00.00,3.00.00,3.00.00,3.00.00,3,1,0,0,0
 org.jfree.chart.junit.LegendItemTests.java,org.jfree.chart.junit.LegendItemTests,tests/org/jfree/chart/junit/LegendItemTests.java,3.00,3.00.00,3.00.00,3.00.00,3.00.00,3.00.00,3,1,0,0,0
 org.jfree.chart.junit.LineChart3DTests.java,org.jfree.chart.junit.LineChart3DTests,tests/org/jfree/chart/junit/LineChart3DTests.java,2.00,2.00.00,2.00.00,2.00.00,2.00.00,2.00.00,3,1,0,0,0
@@ -630,7 +630,7 @@ org.jfree.chart.junit.XYStepAreaChartTests.java,org.jfree.chart.junit.XYStepArea
 org.jfree.chart.junit.XYStepChartTests.java,org.jfree.chart.junit.XYStepChartTests,tests/org/jfree/chart/junit/XYStepChartTests.java,2.00,2.00.00,2.00.00,2.00.00,2.00.00,2.00.00,3,1,0,0,0
 org.jfree.data.junit.ComparableObjectItemTests.java,org.jfree.data.junit.ComparableObjectItemTests,tests/org/jfree/data/junit/ComparableObjectItemTests.java,4.00,4.00.00,4.00.00,4.00.00,4.00.00,4.00.00,3,1,0,0,0
 org.jfree.data.junit.ComparableObjectSeriesTests.java,org.jfree.data.junit.ComparableObjectSeriesTests,tests/org/jfree/data/junit/ComparableObjectSeriesTests.java,4.00,4.00.00,4.00.00,4.00.00,4.00.00,4.00.00,3,1,0,0,0
-* 23-Aug-2004 : Restructured org.jfree.data  (DG).DataPackageTests.java,* 23-Aug-2004 : Restructured org.jfree.data  (DG).DataPackageTests,tests/org/jfree/data/junit/DataPackageTests.java,1.00,1.00.00,1.00.00,1.00.00,1.00.00,1.00.00,3,1,0,0,0
+couldn't,couldn't,tests/org/jfree/data/junit/DataPackageTests.java,1.00,1.00.00,1.00.00,1.00.00,1.00.00,1.00.00,3,1,0,0,0
 org.jfree.data.junit.DataUtilitiesTests.java,org.jfree.data.junit.DataUtilitiesTests,tests/org/jfree/data/junit/DataUtilitiesTests.java,1.00,1.00.00,1.00.00,1.00.00,1.00.00,1.00.00,3,1,0,0,0
 org.jfree.data.junit.DefaultKeyedValues2DTests.java,org.jfree.data.junit.DefaultKeyedValues2DTests,tests/org/jfree/data/junit/DefaultKeyedValues2DTests.java,11.00,11.00.00,11.00.00,11.00.00,11.00.00,11.00.00,3,1,0,0,0
 org.jfree.data.junit.DefaultKeyedValuesTests.java,org.jfree.data.junit.DefaultKeyedValuesTests,tests/org/jfree/data/junit/DefaultKeyedValuesTests.java,11.00,11.00.00,11.00.00,11.00.00,11.00.00,11.00.00,3,1,0,0,0
@@ -805,14 +805,14 @@ org.jfree.chart.util.junit.ShapeUtilitiesTests.java,org.jfree.chart.util.junit.S
 org.jfree.chart.util.junit.StrokeListTests.java,org.jfree.chart.util.junit.StrokeListTests,tests/org/jfree/chart/util/junit/StrokeListTests.java,3.00,3.00.00,3.00.00,3.00.00,3.00.00,3.00.00,3,1,0,0,0
 org.jfree.chart.util.junit.UtilPackageTests.java,org.jfree.chart.util.junit.UtilPackageTests,tests/org/jfree/chart/util/junit/UtilPackageTests.java,1.00,1.00.00,1.00.00,1.00.00,1.00.00,1.00.00,3,2,0,0,0
 org.jfree.data.category.junit.CategoryToPieDatasetTests.java,org.jfree.data.category.junit.CategoryToPieDatasetTests,tests/org/jfree/data/category/junit/CategoryToPieDatasetTests.java,9.00,9.00.00,9.00.00,9.00.00,9.00.00,9.00.00,3,1,0,0,0
-* 23-Aug-2004 : Restructured org.jfree.data  (DG).DataCategoryPackageTests.java,* 23-Aug-2004 : Restructured org.jfree.data  (DG).DataCategoryPackageTests,tests/org/jfree/data/category/junit/DataCategoryPackageTests.java,1.00,1.00.00,1.00.00,1.00.00,1.00.00,1.00.00,3,1,0,0,0
+couldn't,couldn't,tests/org/jfree/data/category/junit/DataCategoryPackageTests.java,1.00,1.00.00,1.00.00,1.00.00,1.00.00,1.00.00,3,1,0,0,0
 org.jfree.data.category.junit.DefaultCategoryDatasetTests.java,org.jfree.data.category.junit.DefaultCategoryDatasetTests,tests/org/jfree/data/category/junit/DefaultCategoryDatasetTests.java,12.00,12.00.00,12.00.00,12.00.00,12.00.00,12.00.00,3,1,0,0,0
 org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.java,org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests,tests/org/jfree/data/category/junit/DefaultIntervalCategoryDatasetTests.java,12.00,12.00.00,12.00.00,12.00.00,12.00.00,12.00.00,3,1,0,0,0
 org.jfree.data.gantt.junit.DataGanttPackageTests.java,org.jfree.data.gantt.junit.DataGanttPackageTests,tests/org/jfree/data/gantt/junit/DataGanttPackageTests.java,1.00,1.00.00,1.00.00,1.00.00,1.00.00,1.00.00,3,1,0,0,0
 org.jfree.data.gantt.junit.TaskSeriesCollectionTests.java,org.jfree.data.gantt.junit.TaskSeriesCollectionTests,tests/org/jfree/data/gantt/junit/TaskSeriesCollectionTests.java,9.00,9.00.00,9.00.00,9.00.00,9.00.00,9.00.00,3,1,0,0,0
 org.jfree.data.gantt.junit.TaskSeriesTests.java,org.jfree.data.gantt.junit.TaskSeriesTests,tests/org/jfree/data/gantt/junit/TaskSeriesTests.java,3.00,3.00.00,3.00.00,3.00.00,3.00.00,3.00.00,3,1,0,0,0
 org.jfree.data.gantt.junit.TaskTests.java,org.jfree.data.gantt.junit.TaskTests,tests/org/jfree/data/gantt/junit/TaskTests.java,3.00,3.00.00,3.00.00,3.00.00,3.00.00,3.00.00,3,1,0,0,0
-* 23-Aug-2004 : Restructured org.jfree.data  (DG).DataGeneralPackageTests.java,* 23-Aug-2004 : Restructured org.jfree.data  (DG).DataGeneralPackageTests,tests/org/jfree/data/general/junit/DataGeneralPackageTests.java,1.00,1.00.00,1.00.00,1.00.00,1.00.00,1.00.00,3,1,0,0,0
+couldn't,couldn't,tests/org/jfree/data/general/junit/DataGeneralPackageTests.java,1.00,1.00.00,1.00.00,1.00.00,1.00.00,1.00.00,3,1,0,0,0
 org.jfree.data.general.junit.DatasetGroupTests.java,org.jfree.data.general.junit.DatasetGroupTests,tests/org/jfree/data/general/junit/DatasetGroupTests.java,2.00,2.00.00,2.00.00,2.00.00,2.00.00,2.00.00,3,1,0,0,0
 org.jfree.data.general.junit.DatasetUtilitiesTests.java,org.jfree.data.general.junit.DatasetUtilitiesTests,tests/org/jfree/data/general/junit/DatasetUtilitiesTests.java,2.00,2.00.00,2.00.00,2.00.00,2.00.00,2.00.00,3,1,0,0,0
 org.jfree.data.general.junit.DefaultKeyedValueDatasetTests.java,org.jfree.data.general.junit.DefaultKeyedValueDatasetTests,tests/org/jfree/data/general/junit/DefaultKeyedValueDatasetTests.java,4.00,4.00.00,4.00.00,4.00.00,4.00.00,4.00.00,3,1,0,0,0
@@ -832,7 +832,7 @@ org.jfree.data.statistics.junit.RegressionTests.java,org.jfree.data.statistics.j
 org.jfree.data.statistics.junit.SimpleHistogramBinTests.java,org.jfree.data.statistics.junit.SimpleHistogramBinTests,tests/org/jfree/data/statistics/junit/SimpleHistogramBinTests.java,3.00,3.00.00,3.00.00,3.00.00,3.00.00,3.00.00,3,1,0,0,0
 org.jfree.data.statistics.junit.SimpleHistogramDatasetTests.java,org.jfree.data.statistics.junit.SimpleHistogramDatasetTests,tests/org/jfree/data/statistics/junit/SimpleHistogramDatasetTests.java,3.00,3.00.00,3.00.00,3.00.00,3.00.00,3.00.00,3,1,0,0,0
 org.jfree.data.statistics.junit.StatisticsTests.java,org.jfree.data.statistics.junit.StatisticsTests,tests/org/jfree/data/statistics/junit/StatisticsTests.java,11.00,11.00.00,11.00.00,11.00.00,11.00.00,11.00.00,3,1,0,0,0
-* 23-Aug-2004 : Restructured org.jfree.data  (DG).DataTimePackageTests.java,* 23-Aug-2004 : Restructured org.jfree.data  (DG).DataTimePackageTests,tests/org/jfree/data/time/junit/DataTimePackageTests.java,1.00,1.00.00,1.00.00,1.00.00,1.00.00,1.00.00,3,1,0,0,0
+couldn't,couldn't,tests/org/jfree/data/time/junit/DataTimePackageTests.java,1.00,1.00.00,1.00.00,1.00.00,1.00.00,1.00.00,3,1,0,0,0
 org.jfree.data.time.junit.DateRangeTests.java,org.jfree.data.time.junit.DateRangeTests,tests/org/jfree/data/time/junit/DateRangeTests.java,2.00,2.00.00,2.00.00,2.00.00,2.00.00,2.00.00,3,1,0,0,0
 org.jfree.data.time.junit.DayTests.java,org.jfree.data.time.junit.DayTests,tests/org/jfree/data/time/junit/DayTests.java,7.00,7.00.00,7.00.00,7.00.00,7.00.00,7.00.00,3,1,0,0,0
 org.jfree.data.time.junit.FixedMillisecondTests.java,org.jfree.data.time.junit.FixedMillisecondTests,tests/org/jfree/data/time/junit/FixedMillisecondTests.java,2.00,2.00.00,2.00.00,2.00.00,2.00.00,2.00.00,3,1,0,0,0
@@ -855,7 +855,7 @@ org.jfree.data.time.junit.TimeTableXYDatasetTests.java,org.jfree.data.time.junit
 org.jfree.data.time.junit.WeekTests.java,org.jfree.data.time.junit.WeekTests,tests/org/jfree/data/time/junit/WeekTests.java,4.00,4.00.00,4.00.00,4.00.00,4.00.00,4.00.00,3,2,0,0,0
 org.jfree.data.time.junit.YearTests.java,org.jfree.data.time.junit.YearTests,tests/org/jfree/data/time/junit/YearTests.java,9.00,9.00.00,9.00.00,9.00.00,9.00.00,9.00.00,3,1,0,0,0
 org.jfree.data.xy.junit.CategoryTableXYDatasetTests.java,org.jfree.data.xy.junit.CategoryTableXYDatasetTests,tests/org/jfree/data/xy/junit/CategoryTableXYDatasetTests.java,3.00,3.00.00,3.00.00,3.00.00,3.00.00,3.00.00,3,1,0,0,0
-* 23-Aug-2004 : Restructured org.jfree.data  (DG).DataXYPackageTests.java,* 23-Aug-2004 : Restructured org.jfree.data  (DG).DataXYPackageTests,tests/org/jfree/data/xy/junit/DataXYPackageTests.java,1.00,1.00.00,1.00.00,1.00.00,1.00.00,1.00.00,3,1,0,0,0
+couldn't,couldn't,tests/org/jfree/data/xy/junit/DataXYPackageTests.java,1.00,1.00.00,1.00.00,1.00.00,1.00.00,1.00.00,3,1,0,0,0
 org.jfree.data.xy.junit.DefaultHighLowDatasetTests.java,org.jfree.data.xy.junit.DefaultHighLowDatasetTests,tests/org/jfree/data/xy/junit/DefaultHighLowDatasetTests.java,3.00,3.00.00,3.00.00,3.00.00,3.00.00,3.00.00,3,1,0,0,0
 org.jfree.data.xy.junit.DefaultIntervalXYDatasetTests.java,org.jfree.data.xy.junit.DefaultIntervalXYDatasetTests,tests/org/jfree/data/xy/junit/DefaultIntervalXYDatasetTests.java,10.00,10.00.00,10.00.00,10.00.00,10.00.00,10.00.00,3,1,0,0,0
 org.jfree.data.xy.junit.DefaultOHLCDatasetTests.java,org.jfree.data.xy.junit.DefaultOHLCDatasetTests,tests/org/jfree/data/xy/junit/DefaultOHLCDatasetTests.java,3.00,3.00.00,3.00.00,3.00.00,3.00.00,3.00.00,3,2,0,0,0
@@ -917,7 +917,7 @@ org.jfree.chart.renderer.category.junit.LevelRendererTests.java,org.jfree.chart.
 org.jfree.chart.renderer.category.junit.LineAndShapeRendererTests.java,org.jfree.chart.renderer.category.junit.LineAndShapeRendererTests,tests/org/jfree/chart/renderer/category/junit/LineAndShapeRendererTests.java,16.00,16.00.00,16.00.00,16.00.00,16.00.00,16.00.00,3,1,0,0,0
 org.jfree.chart.renderer.category.junit.LineRenderer3DTests.java,org.jfree.chart.renderer.category.junit.LineRenderer3DTests,tests/org/jfree/chart/renderer/category/junit/LineRenderer3DTests.java,15.00,15.00.00,15.00.00,15.00.00,15.00.00,15.00.00,3,1,0,0,0
 org.jfree.chart.renderer.category.junit.MinMaxCategoryRendererTests.java,org.jfree.chart.renderer.category.junit.MinMaxCategoryRendererTests,tests/org/jfree/chart/renderer/category/junit/MinMaxCategoryRendererTests.java,4.00,4.00.00,4.00.00,4.00.00,4.00.00,4.00.00,3,1,0,0,0
-* 23-Aug-2004 : Restructured org.jfree.chart.renderer  (DG).RendererCategoryPackageTests.java,* 23-Aug-2004 : Restructured org.jfree.chart.renderer  (DG).RendererCategoryPackageTests,tests/org/jfree/chart/renderer/category/junit/RendererCategoryPackageTests.java,1.00,1.00.00,1.00.00,1.00.00,1.00.00,1.00.00,3,1,0,0,0
+couldn't,couldn't,tests/org/jfree/chart/renderer/category/junit/RendererCategoryPackageTests.java,1.00,1.00.00,1.00.00,1.00.00,1.00.00,1.00.00,3,1,0,0,0
 org.jfree.chart.renderer.category.junit.ScatterRendererTests.java,org.jfree.chart.renderer.category.junit.ScatterRendererTests,tests/org/jfree/chart/renderer/category/junit/ScatterRendererTests.java,8.00,8.00.00,8.00.00,8.00.00,8.00.00,8.00.00,3,1,0,0,0
 org.jfree.chart.renderer.category.junit.StackedAreaRendererTests.java,org.jfree.chart.renderer.category.junit.StackedAreaRendererTests,tests/org/jfree/chart/renderer/category/junit/StackedAreaRendererTests.java,3.00,3.00.00,3.00.00,3.00.00,3.00.00,3.00.00,3,1,0,0,0
 org.jfree.chart.renderer.category.junit.StackedBarRenderer3DTests.java,org.jfree.chart.renderer.category.junit.StackedBarRenderer3DTests,tests/org/jfree/chart/renderer/category/junit/StackedBarRenderer3DTests.java,3.00,3.00.00,3.00.00,3.00.00,3.00.00,3.00.00,3,1,0,0,0
@@ -930,7 +930,7 @@ org.jfree.chart.renderer.xy.junit.CandlestickRendererTests.java,org.jfree.chart.
 org.jfree.chart.renderer.xy.junit.ClusteredXYBarRendererTests.java,org.jfree.chart.renderer.xy.junit.ClusteredXYBarRendererTests,tests/org/jfree/chart/renderer/xy/junit/ClusteredXYBarRendererTests.java,3.00,3.00.00,3.00.00,3.00.00,3.00.00,3.00.00,3,1,0,0,0
 org.jfree.chart.renderer.xy.junit.DeviationRendererTests.java,org.jfree.chart.renderer.xy.junit.DeviationRendererTests,tests/org/jfree/chart/renderer/xy/junit/DeviationRendererTests.java,3.00,3.00.00,3.00.00,3.00.00,3.00.00,3.00.00,3,1,0,0,0
 org.jfree.chart.renderer.xy.junit.HighLowRendererTests.java,org.jfree.chart.renderer.xy.junit.HighLowRendererTests,tests/org/jfree/chart/renderer/xy/junit/HighLowRendererTests.java,3.00,3.00.00,3.00.00,3.00.00,3.00.00,3.00.00,3,2,0,0,0
-* 23-Aug-2004 : Restructured org.jfree.chart.renderer  (DG).RendererXYPackageTests.java,* 23-Aug-2004 : Restructured org.jfree.chart.renderer  (DG).RendererXYPackageTests,tests/org/jfree/chart/renderer/xy/junit/RendererXYPackageTests.java,1.00,1.00.00,1.00.00,1.00.00,1.00.00,1.00.00,3,1,0,0,0
+couldn't,couldn't,tests/org/jfree/chart/renderer/xy/junit/RendererXYPackageTests.java,1.00,1.00.00,1.00.00,1.00.00,1.00.00,1.00.00,3,1,0,0,0
 org.jfree.chart.renderer.xy.junit.StackedXYAreaRenderer2Tests.java,org.jfree.chart.renderer.xy.junit.StackedXYAreaRenderer2Tests,tests/org/jfree/chart/renderer/xy/junit/StackedXYAreaRenderer2Tests.java,4.00,4.00.00,4.00.00,4.00.00,4.00.00,4.00.00,3,1,0,0,0
 org.jfree.chart.renderer.xy.junit.StackedXYAreaRendererTests.java,org.jfree.chart.renderer.xy.junit.StackedXYAreaRendererTests,tests/org/jfree/chart/renderer/xy/junit/StackedXYAreaRendererTests.java,5.00,5.00.00,5.00.00,5.00.00,5.00.00,5.00.00,3,1,0,0,0
 org.jfree.chart.renderer.xy.junit.StackedXYBarRendererTests.java,org.jfree.chart.renderer.xy.junit.StackedXYBarRendererTests,tests/org/jfree/chart/renderer/xy/junit/StackedXYBarRendererTests.java,3.00,3.00.00,3.00.00,3.00.00,3.00.00,3.00.00,3,1,0,0,0
